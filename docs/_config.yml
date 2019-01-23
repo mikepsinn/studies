@@ -18,11 +18,11 @@
 remote_theme: mmistakes/so-simple-theme
 
 locale: en-US
-title: "So Simple"
-description: "A simple Jekyll theme for words and pictures."
-baseurl: "/so-simple-theme"
-url: "https://mmistakes.github.io"
-logo: "/images/so-simple-site-logo.png"
+title: "The Journal of Citizen Science"
+description: "Creating a better world through data."
+baseurl: "/studies"
+url: "https://mikepsinn.github.io"
+logo: "/images/crowdsourcing-utopia-icon-1024-1024.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: # 200
@@ -36,7 +36,7 @@ google_analytics: "UA-2011187-2"
 disqus:
   shortname: "sosimpletheme"
 twitter:
-  username: "mmistakes"
+  username: "quantimodo"
 google_site_verification: "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y"
 
 # Liquid

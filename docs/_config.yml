@@ -106,19 +106,19 @@ defaults:
 
 # Site Author
 author:
-  name: Michael Rose
-  picture: /images/michael-rose-photo.jpg
+  name: Mike P. Sinn
+  picture: /images/mikepsinn-photo.jpg
   email:
-  twitter: mmistakes
+  twitter: thinkbynumbers
   links:
     - title: Twitter
-      url: https://twitter.com/mmistakes
+      url: https://twitter.com/thinkbynumbers
       icon: fab fa-twitter-square
-    - title: Instagram
-      url: https://instagram.com/mmistakes
-      icon: fab fa-instagram
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/mikesinn/
+      icon: fab fa-linkedin
     - title: GitHub
-      url: https://github.com/mmistakes
+      url: https://github.com/mikepsinn
       icon: fab fa-github-square
 
 # Footer Links
@@ -135,3 +135,5 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+
+copyright: "This site is made with <3 by *me, myself, and I*."

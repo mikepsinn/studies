@@ -136,4 +136,4 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
 
-copyright: "This site is made with <3 by *me, myself, and I*."
+#copyright: "This site is made with <3 by *me, myself, and I*."

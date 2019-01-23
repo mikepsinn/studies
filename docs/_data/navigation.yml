@@ -2,11 +2,15 @@
 
 - title: Posts
   url: /posts/
-- title: Categories
+- title: Variable Categories
   url: /categories/
-- title: Tags
+- title: Variables
   url: /tags/
 - title: Recipes
   url: /recipes/
+- title: Personal Studies
+  url: /personal-studies/
+- title: Global Studies
+  url: /global-studies/
 - title: Search
   url: /search/

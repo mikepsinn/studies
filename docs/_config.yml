@@ -21,7 +21,7 @@ locale: en-US
 title: "The Journal of Citizen Science"
 description: "Creating a better world through data."
 #baseurl: "/studies" For when we don't use custom domain
-baseurl: "/"
+baseurl: ""
 #url: "https://mikepsinn.github.io"
 url: "https://studies.quantimo.do"
 logo: "/images/crowdsourcing-utopia-icon-1024-1024.png"
@@ -39,7 +39,7 @@ disqus:
   shortname: "journal-of-citizen-science"
 twitter:
   username: "quantimodo"
-google_site_verification: "t2j9fjC_8bPF8oF3d4MwIWzhRfi9FBxV8jEoFo2e8e0"
+google_site_verification: "t2j9fjC_8bPF8oF3d4MwIWzhRfi9FBxV8jEoFo2e8e0re"
 
 # Liquid
 liquid:
@@ -86,6 +86,12 @@ collections:
   recipes:
     output: true
     permalink: /:collection/:path/
+  personal-studies:
+    output: true
+    permalink: /:collection/:path/
+  global-studies:
+    output: true
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
@@ -101,6 +107,20 @@ defaults:
   - scope:
       path: "_recipes"
       type: recipes
+    values:
+      layout: post
+      comments: true
+      share: true
+  - scope:
+      path: "_personal-studies"
+      type: personal-studies
+    values:
+      layout: post
+      comments: true
+      share: true
+  - scope:
+      path: "_global-studies"
+      type: global-studies
     values:
       layout: post
       comments: true
@@ -138,4 +158,4 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
 
-#copyright: "This site is made with <3 by *me, myself, and I*."
+copyright: '©2019 <a href="https://quantimo.do" rel="nofollow">QuantiModo</a>'

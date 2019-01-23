@@ -20,8 +20,10 @@ remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "The Journal of Citizen Science"
 description: "Creating a better world through data."
-baseurl: "/studies"
-url: "https://mikepsinn.github.io"
+#baseurl: "/studies" For when we don't use custom domain
+baseurl: "/"
+#url: "https://mikepsinn.github.io"
+url: "https://studies.quantimo.do"
 logo: "/images/crowdsourcing-utopia-icon-1024-1024.png"
 date_format: "%B %-d, %Y"
 read_time: false

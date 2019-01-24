@@ -3,7 +3,7 @@ title: "↑Higher Sleep Quality Predicts ↑Higher Overall Mood"
 image: 
     path: https://s3-us-west-1.amazonaws.com/qmimages/variable_categories_gauges_background/gauge-moderately-positive-relationship_sleep_emotions_background.png
     #thumbnail: https://web.quantimo.do/img/gauges/246-120/gauge-moderately-positive-relationship.png
-    #thumbnail: https://s3-us-west-1.amazonaws.com/qmimages/variable_categories_gauges_background/gauge-moderately-positive-relationship_sleep_emotions_background.png
+    thumbnail: https://s3-us-west-1.amazonaws.com/qmimages/variable_categories_gauges_background/gauge-moderately-positive-relationship_sleep_emotions_background.png
     caption: "[QuantiModo](https://quantimo.do)"
 excerpt: "Your Overall Mood is generally highest after an average of 3.9 out of 5 of Sleep Quality over the previous 7 days.  "
 categories:
@@ -12,7 +12,7 @@ categories:
 tags:
     - Sleep Quality
     - Overall Mood
-last_modified_at: 2019-01-24 00:16:02
+last_modified_at: 2019-01-24 00:22:59
 ---
         
 <html>

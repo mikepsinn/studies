@@ -1,9 +1,17 @@
 ---
-title: "↑Higher 5 HTP Intake Predicts ↓Lower Overall Mood"
+title: "ABC ↑Higher 5 HTP Intake Predicts ↓Lower Overall Mood"
 image: 
   path: https://s3-us-west-1.amazonaws.com/qmimages/variable_categories_gauges_background/gauge-weakly-negative-relationship_treatments_emotions_background.png
   thumbnail: https://web.quantimo.do/img/gauges/246-120/gauge-weakly-negative-relationship.png
   caption: "[QuantiModo](https://quantimo.do)"
+excerpt: "abc This post has no body content and should be blank on the post's page."
+categories:
+    - Edge Case
+tags:
+    - content
+    - edge case
+    - layout
+last_modified_at: 2017-03-09T14:23:48-05:00
 ---
         
 <html>

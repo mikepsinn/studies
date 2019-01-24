@@ -1,39 +1,32 @@
 ---
 title: "↑Higher Sleep Quality Predicts ↑Higher Overall Mood"
 image: 
-  path: https://s3-us-west-1.amazonaws.com/qmimages/variable_categories_gauges_background/gauge-moderately-positive-relationship_sleep_emotions_background.png
-  thumbnail: https://web.quantimo.do/img/gauges/246-120/gauge-moderately-positive-relationship.png
-  caption: "[QuantiModo](https://quantimo.do)"
+    path: https://s3-us-west-1.amazonaws.com/qmimages/variable_categories_gauges_background/gauge-moderately-positive-relationship_sleep_emotions_background.png
+    #thumbnail: https://web.quantimo.do/img/gauges/246-120/gauge-moderately-positive-relationship.png
+    #thumbnail: https://s3-us-west-1.amazonaws.com/qmimages/variable_categories_gauges_background/gauge-moderately-positive-relationship_sleep_emotions_background.png
+    caption: "[QuantiModo](https://quantimo.do)"
+excerpt: "Your Overall Mood is generally highest after an average of 3.9 out of 5 of Sleep Quality over the previous 7 days.  "
+categories:
+    - Sleep
+    - Emotions
+tags:
+    - Sleep Quality
+    - Overall Mood
+last_modified_at: 2019-01-24 00:04:01
 ---
         
 <html>
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
 <body>
-<div style="text-align: center;">
-                <div style="-webkit-font-smoothing: antialiased; -webkit-text-size-adjust: none; width: 100%; height: 100%; 
-                    color: #37302d; background: #ffffff; font-size: 16px;">
-<h1 id="study-title" class="study-title" style="--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font,'Lucida Grande','Lucida Sans Unicode','Lucida Sans',Geneva,Arial,sans-serif; font-weight: 700; font-style: normal; margin-left: -2.63px; line-height: 1.04; letter-spacing: -.015em;">
-↑Higher Sleep Quality Predicts ↑Higher Overall Mood
-</h1>
-</div>
-<div id="gauge-and-images" style="justify-content:space-around;">
-            <div style="display: inline-block; max-width: 10%;"> <img style="max-width: 100%;" src="https://web.quantimo.do/img/variable_categories/sleep.png" alt="cause image">
-</div>
-            <div style="display: inline-block; max-width: 65%;"> <img style="max-width: 100%; max-height: 200px;" src="https://web.quantimo.do/img/gauges/246-120/gauge-moderately-positive-relationship.png" alt="gauge image">
-</div> 
-            <div style="display: inline-block; max-width: 10%;"> <img style="max-width: 100%;" src="https://web.quantimo.do/img/variable_categories/emotions.png" alt="effect image">
-</div>
-        </div>
-</div>
-<br><div style="text-align: center;"><div id="study-tag-line" class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58; padding: 20px;'>Your Overall Mood is generally highest after an average of 3.9 out of 5 of Sleep Quality over the previous 7 days.  </div></div>
-        <!--Button-->
+<div id="study-tag-line" class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58; padding: 20px;'>Your Overall Mood is generally highest after an average of 3.9 out of 5 of Sleep Quality over the previous 7 days.  </div>
+<!--Button-->
             <center>
              <table align="center" cellspacing="0" cellpadding="0" width="100%"><tr>
 <td align="center" style="padding: 10px;">
                    <table border="0" class="mobile-button" cellspacing="0" cellpadding="0"><tr>
 <td align="center" bgcolor="#2b3138" style="background-color: #2b3138; margin: auto; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px; " width="100%">
                        <!--[if mso]>&nbsp;<![endif]-->
-                           <a id="joinStudyButton" href="https://web.quantimo.do/#/app/study-join?causeVariableId=1448&amp;causeVariableName=Sleep+Quality&amp;effectVariableId=1398&amp;effectVariableName=Overall%2520Mood&amp;studyId=cause-1448-effect-1398-user-230-user-study&amp;apiUrl=app.quantimo.do" target="_blank" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
+                           <a id="joinStudyButton" href="https://web.quantimo.do/#/app/study-join?causeVariableId=1448&amp;causeVariableName=Sleep+Quality&amp;effectVariableId=1398&amp;effectVariableName=Overall%2520Mood&amp;studyId=cause-1448-effect-1398-user-230-user-study&amp;apiUrl=staging.quantimo.do" target="_blank" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
                                <span style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; line-height:1.5em; text-align:center;">
                                     Join This Study
                                </span>
@@ -51,7 +44,7 @@ image:
                    <table border="0" class="mobile-button" cellspacing="0" cellpadding="0"><tr>
 <td align="center" bgcolor="#2b3138" style="background-color: #2b3138; margin: auto; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px; " width="100%">
                        <!--[if mso]>&nbsp;<![endif]-->
-                           <a id="go-to-interactive-study-button" href="https://web.quantimo.do/#/app/study?causeVariableId=1448&amp;effectVariableId=1398&amp;userId=230&amp;studyId=cause-1448-effect-1398-user-230-user-study&amp;apiUrl=app.quantimo.do" target="_blank" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
+                           <a id="go-to-interactive-study-button" href="https://web.quantimo.do/#/app/study?causeVariableId=1448&amp;effectVariableId=1398&amp;userId=230&amp;studyId=cause-1448-effect-1398-user-230-user-study&amp;apiUrl=staging.quantimo.do" target="_blank" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
                                <span style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; line-height:1.5em; text-align:center;">
                                     Go To Interactive Study
                                </span>
@@ -104,7 +97,7 @@ image:
 <h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Objective</h2>
 <div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>The objective of this study is to determine the nature of the relationship (if any) between Sleep Quality and Overall Mood. Additionally, we attempt to determine the Sleep Quality values most likely to produce optimal Overall Mood values. </div>
 <h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Participant Instructions</h2>
-<div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>Get <a href="http://www.amazon.com/gp/product/B00A17IAO0/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00A17IAO0&amp;linkCode=as2&amp;tag=quantimodo05-20" style="text-decoration: none; border: 0; outline: none;">Up by Jawbone here</a> and use it to record your Sleep Quality.  Once you have a <a href="http://www.amazon.com/gp/product/B00A17IAO0/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00A17IAO0&amp;linkCode=as2&amp;tag=quantimodo05-20" style="text-decoration: none; border: 0; outline: none;">Up by Jawbone</a> account, you can import your data from the <a href="https://web.quantimo.do/#/app/import?afterConnectGoTo=https%3A%2F%2Fweb.quantimo.do%2F%23%2Fapp%2Fstudy-join%3FcauseVariableId%3D1448%26causeVariableName%3DSleep%2BQuality%26effectVariableId%3D1398%26effectVariableName%3DOverall%252520Mood%26studyId%3Dcause-1448-effect-1398-user-230-user-study%26apiUrl%3Dapp.quantimo.do&amp;connectorName=up&amp;apiUrl=app.quantimo.do" style="text-decoration: none; border: 0; outline: none;">Import Data page</a>.  Your data will automatically be imported and analyzed. <br>Record your Overall Mood daily in the <a href="https://web.quantimo.do/#/app/reminders-inbox?afterConnectGoTo=https%3A%2F%2Fweb.quantimo.do%2F%23%2Fapp%2Fstudy-join%3FcauseVariableId%3D1448%26causeVariableName%3DSleep%2BQuality%26effectVariableId%3D1398%26effectVariableName%3DOverall%252520Mood%26studyId%3Dcause-1448-effect-1398-user-230-user-study%26apiUrl%3Dapp.quantimo.do&amp;apiUrl=app.quantimo.do" style="text-decoration: none; border: 0; outline: none;"> reminder inbox</a> or using the <a href="https://web.quantimo.do/#/app/variable-list-category/Anything?afterConnectGoTo=https%3A%2F%2Fweb.quantimo.do%2F%23%2Fapp%2Fstudy-join%3FcauseVariableId%3D1448%26causeVariableName%3DSleep%2BQuality%26effectVariableId%3D1398%26effectVariableName%3DOverall%252520Mood%26studyId%3Dcause-1448-effect-1398-user-230-user-study%26apiUrl%3Dapp.quantimo.do&amp;apiUrl=app.quantimo.do" style="text-decoration: none; border: 0; outline: none;">interactive web or mobile notifications</a>. </div>
+<div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>Get <a href="http://www.amazon.com/gp/product/B00A17IAO0/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00A17IAO0&amp;linkCode=as2&amp;tag=quantimodo05-20" style="text-decoration: none; border: 0; outline: none;">Up by Jawbone here</a> and use it to record your Sleep Quality.  Once you have a <a href="http://www.amazon.com/gp/product/B00A17IAO0/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00A17IAO0&amp;linkCode=as2&amp;tag=quantimodo05-20" style="text-decoration: none; border: 0; outline: none;">Up by Jawbone</a> account, you can import your data from the <a href="https://web.quantimo.do/#/app/import?afterConnectGoTo=https%3A%2F%2Fweb.quantimo.do%2F%23%2Fapp%2Fstudy-join%3FcauseVariableId%3D1448%26causeVariableName%3DSleep%2BQuality%26effectVariableId%3D1398%26effectVariableName%3DOverall%252520Mood%26studyId%3Dcause-1448-effect-1398-user-230-user-study%26apiUrl%3Dstaging.quantimo.do&amp;connectorName=up&amp;apiUrl=staging.quantimo.do" style="text-decoration: none; border: 0; outline: none;">Import Data page</a>.  Your data will automatically be imported and analyzed. <br>Record your Overall Mood daily in the <a href="https://web.quantimo.do/#/app/reminders-inbox?afterConnectGoTo=https%3A%2F%2Fweb.quantimo.do%2F%23%2Fapp%2Fstudy-join%3FcauseVariableId%3D5953225%26causeVariableName%3DSleep%2BQuality%2BRating%26effectVariableId%3D1398%26effectVariableName%3DOverall%252520Mood%26studyId%3Dcause-5953225-effect-1398-user-230-user-study%26apiUrl%3Dstaging.quantimo.do&amp;apiUrl=staging.quantimo.do" style="text-decoration: none; border: 0; outline: none;"> reminder inbox</a> or using the <a href="https://web.quantimo.do/#/app/variable-list-category/Anything?afterConnectGoTo=https%3A%2F%2Fweb.quantimo.do%2F%23%2Fapp%2Fstudy-join%3FcauseVariableId%3D5953225%26causeVariableName%3DSleep%2BQuality%2BRating%26effectVariableId%3D1398%26effectVariableName%3DOverall%252520Mood%26studyId%3Dcause-5953225-effect-1398-user-230-user-study%26apiUrl%3Dstaging.quantimo.do&amp;apiUrl=staging.quantimo.do" style="text-decoration: none; border: 0; outline: none;">interactive web or mobile notifications</a>. </div>
 <h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Design</h2>
 <div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>This study is based on data donated by one participant. Thus, the study design is consistent with an n=1 observational natural experiment. </div>
 <h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Data Analysis</h2>
@@ -115,7 +108,7 @@ image:
                    <table border="0" class="mobile-button" cellspacing="0" cellpadding="0" style="border-collapse: collapse;"><tr>
 <td align="center" bgcolor="#2b3138" width="100%" style="font-family: Helvetica, Arial, sans-serif; font-weight: 400; text-align: center; background-color: #2b3138; margin: auto; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px;">
                        <!--[if mso]>&nbsp;<![endif]-->
-                           <a id="sleep-quality-analysis-settings-button" href="https://web.quantimo.do/#/app/variable-settings/Sleep+Quality?fromUrl=https%3A%2F%2Fweb.quantimo.do%2F%23%2Fapp%2Fstudy%3FcauseVariableId%3D1448%26effectVariableId%3D1398%26userId%3D230%26studyId%3Dcause-1448-effect-1398-user-230-user-study%26apiUrl%3Dapp.quantimo.do%26recalculate%3Dtrue&amp;apiUrl=app.quantimo.do" target="_blank" style="outline: none; font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; text-align: center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
+                           <a id="sleep-quality-analysis-settings-button" href="https://web.quantimo.do/#/app/variable-settings/Sleep+Quality?fromUrl=https%3A%2F%2Fweb.quantimo.do%2F%23%2Fapp%2Fstudy%3FcauseVariableId%3D1448%26effectVariableId%3D1398%26userId%3D230%26studyId%3Dcause-1448-effect-1398-user-230-user-study%26apiUrl%3Dstaging.quantimo.do%26recalculate%3Dtrue&amp;apiUrl=staging.quantimo.do" target="_blank" style="outline: none; font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; text-align: center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
                                <span style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; line-height: 1.5em; text-align: center;">
                                     Sleep Quality Analysis Settings
                                </span>
@@ -132,7 +125,7 @@ image:
                    <table border="0" class="mobile-button" cellspacing="0" cellpadding="0" style="border-collapse: collapse;"><tr>
 <td align="center" bgcolor="#2b3138" width="100%" style="font-family: Helvetica, Arial, sans-serif; font-weight: 400; text-align: center; background-color: #2b3138; margin: auto; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px;">
                        <!--[if mso]>&nbsp;<![endif]-->
-                           <a id="overall-mood-analysis-settings-button" href="https://web.quantimo.do/#/app/variable-settings/Overall+Mood?fromUrl=https%3A%2F%2Fweb.quantimo.do%2F%23%2Fapp%2Fstudy%3FcauseVariableId%3D1448%26effectVariableId%3D1398%26userId%3D230%26studyId%3Dcause-1448-effect-1398-user-230-user-study%26apiUrl%3Dapp.quantimo.do%26recalculate%3Dtrue&amp;apiUrl=app.quantimo.do" target="_blank" style="outline: none; font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; text-align: center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
+                           <a id="overall-mood-analysis-settings-button" href="https://web.quantimo.do/#/app/variable-settings/Overall+Mood?fromUrl=https%3A%2F%2Fweb.quantimo.do%2F%23%2Fapp%2Fstudy%3FcauseVariableId%3D1448%26effectVariableId%3D1398%26userId%3D230%26studyId%3Dcause-1448-effect-1398-user-230-user-study%26apiUrl%3Dstaging.quantimo.do%26recalculate%3Dtrue&amp;apiUrl=staging.quantimo.do" target="_blank" style="outline: none; font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; text-align: center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
                                <span style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; line-height: 1.5em; text-align: center;">
                                     Overall Mood Analysis Settings
                                </span>
@@ -149,7 +142,7 @@ image:
                    <table border="0" class="mobile-button" cellspacing="0" cellpadding="0" style="border-collapse: collapse;"><tr>
 <td align="center" bgcolor="#2b3138" width="100%" style="font-family: Helvetica, Arial, sans-serif; font-weight: 400; text-align: center; background-color: #2b3138; margin: auto; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px;">
                        <!--[if mso]>&nbsp;<![endif]-->
-                           <a id="predictive-analysis-settings-button" href="https://web.quantimo.do/#/app/variable-settings/Sleep+Quality?fromUrl=https%3A%2F%2Fweb.quantimo.do%2F%23%2Fapp%2Fstudy%3FcauseVariableId%3D1448%26effectVariableId%3D1398%26userId%3D230%26studyId%3Dcause-1448-effect-1398-user-230-user-study%26apiUrl%3Dapp.quantimo.do%26recalculate%3Dtrue&amp;apiUrl=app.quantimo.do" target="_blank" style="outline: none; font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; text-align: center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
+                           <a id="predictive-analysis-settings-button" href="https://web.quantimo.do/#/app/variable-settings/Sleep+Quality?fromUrl=https%3A%2F%2Fweb.quantimo.do%2F%23%2Fapp%2Fstudy%3FcauseVariableId%3D1448%26effectVariableId%3D1398%26userId%3D230%26studyId%3Dcause-1448-effect-1398-user-230-user-study%26apiUrl%3Dstaging.quantimo.do%26recalculate%3Dtrue&amp;apiUrl=staging.quantimo.do" target="_blank" style="outline: none; font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; text-align: center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
                                <span style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; line-height: 1.5em; text-align: center;">
                                     Predictive Analysis Settings
                                </span>
@@ -160,7 +153,7 @@ image:
 </td>
                </tr></table>
 </center>
-<br><b>Data Quantity</b> <br>631 raw Sleep Quality measurements with 308 changes spanning 2364 days from 2012-05-06 to 2018-10-27 were used in this analysis. 13192 raw Overall Mood measurements with 1156 changes spanning 2447 days from 2012-05-06 to 2019-01-17 were used in this analysis. </div>
+<br><b>Data Quantity</b> <br>631 raw Sleep Quality measurements with 308 changes spanning 2364 days from 2012-05-06 to 2018-10-27 were used in this analysis. 13216 raw Overall Mood measurements with 1159 changes spanning 2453 days from 2012-05-06 to 2019-01-22 were used in this analysis. </div>
 <h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Data Sources</h2>
 <div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>Sleep Quality data was primarily collected using <a href="http://www.amazon.com/gp/product/B00A17IAO0/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00A17IAO0&amp;linkCode=as2&amp;tag=quantimodo05-20" style="text-decoration: none; border: 0; outline: none;">Up by Jawbone</a>.  UP by Jawbone is a wristband and app that tracks how you sleep, move and eat and then helps you use that information to feel your best.<br><br>Overall Mood data was primarily collected using <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a>.  <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a> allows you to easily track mood, symptoms, or any outcome you want to optimize in a fraction of a second.  You can also import your data from over 30 other apps and devices.  <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a> then analyzes your data to identify which hidden factors are most likely to be influencing your mood or symptoms.</div>
 <h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Limitations</h2>
@@ -222,7 +215,7 @@ image:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Paired  Measurements</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">315</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">313</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Optimal  Pearson  Product</td>
@@ -246,7 +239,7 @@ image:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1); border-bottom: none;">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left; border-bottom-left-radius: 3px;">Analysis  Performed  At</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">2019-01-17</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">2019-01-23</td>
                 </tr>
 </tbody>
 </table>
@@ -352,7 +345,7 @@ image:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Analysis  Performed  At</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2019-01-17</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2019-01-23</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Duration of  Action</td>
@@ -360,7 +353,7 @@ image:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Kurtosis</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">6.7232623779384</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">6.7224477373535</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Maximum  Allowed  Value</td>
@@ -368,7 +361,7 @@ image:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Mean</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2.9151 out of 5</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2.9141 out of 5</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Median</td>
@@ -380,15 +373,15 @@ image:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Changes</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">1156</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">1159</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Correlations</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">4064</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">4058</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Measurements</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">13192</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">13216</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Onset  Delay</td>
@@ -396,7 +389,7 @@ image:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Standard  Deviation</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">0.53342074427659</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">0.53312443988488</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Unit</td>
@@ -412,7 +405,7 @@ image:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1); border-bottom: none;">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left; border-bottom-left-radius: 3px;">Variance</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">0.28453769042459</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">0.28422166840257</td>
                 </tr>
 </tbody>
 </table>

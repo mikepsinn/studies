@@ -12,7 +12,7 @@ categories:
 tags:
     - Blood Pressure (Systolic - Top Number)
     - Overall Mood
-last_modified_at: 2019-01-24 15:28:46
+last_modified_at: 2019-01-24 16:31:44
 ---
         
 <html>
@@ -153,7 +153,7 @@ last_modified_at: 2019-01-24 15:28:46
 </td>
                </tr></table>
 </center>
-<br><b>Data Quantity</b> <br>1515 raw Blood Pressure (Systolic - Top Number) measurements with 338 changes spanning 2074 days from 2013-03-05 to 2018-11-09 were used in this analysis. 13214 raw Overall Mood measurements with 1159 changes spanning 2452 days from 2012-05-06 to 2019-01-22 were used in this analysis. </div>
+<br><b>Data Quantity</b> <br>1515 raw Blood Pressure (Systolic - Top Number) measurements with 338 changes spanning 2074 days from 2013-03-05 to 2018-11-09 were used in this analysis. 13222 raw Overall Mood measurements with 1161 changes spanning 2454 days from 2012-05-06 to 2019-01-24 were used in this analysis. </div>
 <br><h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Data Sources</h2>
 <div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>Blood Pressure (Systolic - Top Number) data was primarily collected using <a href="http://partners.withings.com/c/71745/58308/583" style="text-decoration: none; border: 0; outline: none;">Withings</a>.  <a href="http://partners.withings.com/c/71745/58308/583" style="text-decoration: none; border: 0; outline: none;">Withings</a> creates smart products and apps to take care of yourself and your loved ones in a new and easy way. Discover the <a href="http://partners.withings.com/c/71745/58308/583" style="text-decoration: none; border: 0; outline: none;">Withings</a> Pulse, Wi-Fi Body Scale, and Blood Pressure Monitor.<br><br>Overall Mood data was primarily collected using <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a>.  <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a> allows you to easily track mood, symptoms, or any outcome you want to optimize in a fraction of a second.  You can also import your data from over 30 other apps and devices.  <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a> then analyzes your data to identify which hidden factors are most likely to be influencing your mood or symptoms.</div>
 <br><h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Limitations</h2>
@@ -240,7 +240,7 @@ last_modified_at: 2019-01-24 15:28:46
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1); border-bottom: none;">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left; border-bottom-left-radius: 3px;">Analysis  Performed  At</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">2019-01-22</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">2019-01-24</td>
                 </tr>
 </tbody>
 </table>
@@ -342,7 +342,7 @@ last_modified_at: 2019-01-24 15:28:46
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Analysis  Performed  At</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2019-01-22</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2019-01-24</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Duration of  Action</td>
@@ -350,7 +350,7 @@ last_modified_at: 2019-01-24 15:28:46
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Kurtosis</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">6.7224477373535</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">6.7229146457097</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Maximum  Allowed  Value</td>
@@ -370,7 +370,7 @@ last_modified_at: 2019-01-24 15:28:46
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Changes</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">1159</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">1161</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Correlations</td>
@@ -378,7 +378,7 @@ last_modified_at: 2019-01-24 15:28:46
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Measurements</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">13214</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">13222</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Onset  Delay</td>
@@ -386,7 +386,7 @@ last_modified_at: 2019-01-24 15:28:46
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Standard  Deviation</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">0.53312443988488</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">0.53301712047901</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Unit</td>
@@ -402,7 +402,7 @@ last_modified_at: 2019-01-24 15:28:46
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1); border-bottom: none;">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left; border-bottom-left-radius: 3px;">Variance</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">0.28422166840257</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">0.28410725072373</td>
                 </tr>
 </tbody>
 </table>

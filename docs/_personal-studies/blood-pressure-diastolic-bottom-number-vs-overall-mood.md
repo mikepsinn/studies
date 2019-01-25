@@ -12,7 +12,7 @@ categories:
 tags:
     - Blood Pressure (Diastolic - Bottom Number)
     - Overall Mood
-last_modified_at: 2019-01-25 17:29:48
+last_modified_at: 2019-01-25 18:30:18
 ---
         
 <html>
@@ -56,40 +56,40 @@ last_modified_at: 2019-01-25 17:29:48
                </tr></table>
 </center>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-5554981-effect-1398-user-230-user-study/blood-pressure-diastolic-bottom-number-overall-mood-over-time-chart.svg" alt="Blood Pressure (Diastolic - Bottom Number) &amp; Overall Mood Over Time">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-5554981-effect-1398-user-230-user-study/blood-pressure-diastolic-bottom-number-overall-mood-over-time-chart.svg" alt="Each Blood Pressure (Diastolic - Bottom Number) point is the mean over the previous 7 days" title="Blood Pressure (Diastolic - Bottom Number) &amp; Overall Mood Over Time">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-5554981-effect-1398-user-230-user-study/overall-mood-following-blood-pressure-diastolic-bottom-number-chart.svg" alt="Overall Mood Following Blood Pressure (Diastolic - Bottom Number)">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-5554981-effect-1398-user-230-user-study/overall-mood-following-blood-pressure-diastolic-bottom-number-chart.svg" alt="An increase in 7 days cumulative Blood Pressure (Diastolic - Bottom Number) is usually followed by an increase in Overall Mood. (R = 0.358)" title="Overall Mood Following Blood Pressure (Diastolic - Bottom Number)">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-5554981-effect-1398-user-230-user-study/average-overall-mood-by-previous-blood-pressure-diastolic-bottom-number-chart.svg" alt="Average Overall Mood by Previous Blood Pressure (Diastolic - Bottom Number)">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-5554981-effect-1398-user-230-user-study/average-overall-mood-by-previous-blood-pressure-diastolic-bottom-number-chart.svg" alt="This chart shows the typical value for Overall Mood following a given amount of Blood Pressure (Diastolic - Bottom Number) over the previous 7 days. " title="Average Overall Mood by Previous Blood Pressure (Diastolic - Bottom Number)">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-5554981-effect-1398-user-230-user-study/average-blood-pressure-diastolic-bottom-number-preceding-overall-mood-chart.svg" alt="Average Blood Pressure (Diastolic - Bottom Number) Preceding Overall Mood">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-5554981-effect-1398-user-230-user-study/average-blood-pressure-diastolic-bottom-number-preceding-overall-mood-chart.svg" alt="This chart shows the typical value for Blood Pressure (Diastolic - Bottom Number) over the previous 7 days preceding a given value of Overall Mood." title="Average Blood Pressure (Diastolic - Bottom Number) Preceding Overall Mood">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/blood-pressure-diastolic-bottom-number/blood-pressure-diastolic-bottom-number-over-time-smoothed-chart.svg" alt="Blood Pressure (Diastolic - Bottom Number) Over Time (Smoothed)">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/blood-pressure-diastolic-bottom-number/blood-pressure-diastolic-bottom-number-over-time-smoothed-chart.svg" alt="This chart shows how your Blood Pressure (Diastolic - Bottom Number) changes over time." title="Blood Pressure (Diastolic - Bottom Number) Over Time (Smoothed)">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/blood-pressure-diastolic-bottom-number/daily-blood-pressure-diastolic-bottom-number-distribution-chart.svg" alt="Daily Blood Pressure (Diastolic - Bottom Number) Distribution">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/blood-pressure-diastolic-bottom-number/daily-blood-pressure-diastolic-bottom-number-distribution-chart.svg" alt="Each column represents the number of days this value occurred." title="Daily Blood Pressure (Diastolic - Bottom Number) Distribution">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/blood-pressure-diastolic-bottom-number/average-blood-pressure-diastolic-bottom-number-by-day-of-week-chart.svg" alt="Average Blood Pressure (Diastolic - Bottom Number) by Day of Week">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/blood-pressure-diastolic-bottom-number/average-blood-pressure-diastolic-bottom-number-by-day-of-week-chart.svg" alt="This chart shows the typical value recorded for Blood Pressure (Diastolic - Bottom Number) on each day of the week." title="Average Blood Pressure (Diastolic - Bottom Number) by Day of Week">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/blood-pressure-diastolic-bottom-number/average-blood-pressure-diastolic-bottom-number-by-month-chart.svg" alt="Average Blood Pressure (Diastolic - Bottom Number) by Month">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/blood-pressure-diastolic-bottom-number/average-blood-pressure-diastolic-bottom-number-by-month-chart.svg" alt="This chart shows the typical value recorded for Blood Pressure (Diastolic - Bottom Number) for each month of the year." title="Average Blood Pressure (Diastolic - Bottom Number) by Month">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/overall-mood-over-time-smoothed-chart.svg" alt="Overall Mood Over Time (Smoothed)">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/overall-mood-over-time-smoothed-chart.svg" alt="This chart shows how your Overall Mood changes over time." title="Overall Mood Over Time (Smoothed)">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/daily-overall-mood-distribution-chart.svg" alt="Daily Overall Mood Distribution">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/daily-overall-mood-distribution-chart.svg" alt="Each column represents the number of days this value occurred." title="Daily Overall Mood Distribution">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-day-of-week-chart.svg" alt="Average Overall Mood by Day of Week">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-day-of-week-chart.svg" alt="This chart shows the typical value recorded for Overall Mood on each day of the week." title="Average Overall Mood by Day of Week">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-month-chart.svg" alt="Average Overall Mood by Month">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-month-chart.svg" alt="This chart shows the typical value recorded for Overall Mood for each month of the year." title="Average Overall Mood by Month">
 </div>
 <br><div id="study-text" class="study-text" style="padding: 20px;">
 <h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Abstract</h2>

@@ -5,20 +5,20 @@ image:
     #thumbnail: https://web.quantimo.do/img/gauges/246-120/gauge-weakly-positive-relationship.png
     thumbnail: https://s3-us-west-1.amazonaws.com/qmimages/variable_categories_combined_robot_background/treatments_symptoms_robot_background.png
     caption: "[QuantiModo](https://quantimo.do)"
-excerpt: "Your EffectVariableName is generally lowest after a total of 44 milligrams of CauseVariableName intake over the previous 24 hours.  "
+excerpt: "Your EffectVariableName is generally lowest after a total of 47 milligrams of CauseVariableName intake over the previous 24 hours.  "
 categories:
     - Treatments
     - Symptoms
 tags:
     - CauseVariableName
     - EffectVariableName
-last_modified_at: 2019-01-25 16:23:02
+last_modified_at: 2019-01-25 18:14:53
 ---
         
 <html>
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
 <body>
-<div id="study-tag-line" class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58; padding: 20px;'>Your EffectVariableName is generally lowest after a total of 44 milligrams of CauseVariableName intake over the previous 24 hours.  </div>
+<div id="study-tag-line" class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58; padding: 20px;'>Your EffectVariableName is generally lowest after a total of 47 milligrams of CauseVariableName intake over the previous 24 hours.  </div>
 <!--Button-->
             <center>
              <table align="center" cellspacing="0" cellpadding="0" width="100%"><tr>
@@ -56,44 +56,44 @@ last_modified_at: 2019-01-25 16:23:02
                </tr></table>
 </center>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/cause-100624-effect-100625-user-1-user-study/causevariablename-intake-effectvariablename-over-time-chart.svg" alt="CauseVariableName Intake &amp; EffectVariableName Over Time">
+                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/cause-100624-effect-100625-user-1-user-study/causevariablename-intake-effectvariablename-over-time-chart.svg" alt="Blue represents the sum of CauseVariableName intakeover the previous 24 hours" title="CauseVariableName Intake &amp; EffectVariableName Over Time">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/cause-100624-effect-100625-user-1-user-study/effectvariablename-following-causevariablename-intake-chart.svg" alt="EffectVariableName Following CauseVariableName Intake">
+                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/cause-100624-effect-100625-user-1-user-study/effectvariablename-following-causevariablename-intake-chart.svg" alt="An increase in 24 hours cumulative CauseVariableName intake is usually followed by an increase in EffectVariableName. (R = 0.04)" title="EffectVariableName Following CauseVariableName Intake">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/cause-100624-effect-100625-user-1-user-study/average-effectvariablename-by-previous-causevariablename-intake-chart.svg" alt="Average EffectVariableName by Previous CauseVariableName Intake">
+                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/cause-100624-effect-100625-user-1-user-study/average-effectvariablename-by-previous-causevariablename-intake-chart.svg" alt="This chart shows the typical value for EffectVariableName following a given amount of CauseVariableName intake over the previous 24 hours. " title="Average EffectVariableName by Previous CauseVariableName Intake">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/cause-100624-effect-100625-user-1-user-study/average-causevariablename-intake-preceding-effectvariablename-chart.svg" alt="Average CauseVariableName Intake Preceding EffectVariableName">
+                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/cause-100624-effect-100625-user-1-user-study/average-causevariablename-intake-preceding-effectvariablename-chart.svg" alt="This chart shows the typical value for CauseVariableName intake over the previous 24 hours preceding a given value of EffectVariableName." title="Average CauseVariableName Intake Preceding EffectVariableName">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/causevariablename/causevariablename-over-time-smoothed-chart.svg" alt="CauseVariableName Over Time (Smoothed)">
+                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/causevariablename/causevariablename-over-time-smoothed-chart.svg" alt="This chart shows how your CauseVariableName changes over time." title="CauseVariableName Over Time (Smoothed)">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/causevariablename/daily-causevariablename-distribution-chart.svg" alt="Daily CauseVariableName Distribution">
+                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/causevariablename/daily-causevariablename-distribution-chart.svg" alt="Each column represents the number of days this value occurred." title="Daily CauseVariableName Distribution">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/causevariablename/average-causevariablename-by-day-of-week-chart.svg" alt="Average CauseVariableName by Day of Week">
+                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/causevariablename/average-causevariablename-by-day-of-week-chart.svg" alt="This chart shows the typical value recorded for CauseVariableName on each day of the week." title="Average CauseVariableName by Day of Week">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/causevariablename/average-causevariablename-by-month-chart.svg" alt="Average CauseVariableName by Month">
+                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/causevariablename/average-causevariablename-by-month-chart.svg" alt="This chart shows the typical value recorded for CauseVariableName for each month of the year." title="Average CauseVariableName by Month">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/effectvariablename/effectvariablename-over-time-smoothed-chart.svg" alt="EffectVariableName Over Time (Smoothed)">
+                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/effectvariablename/effectvariablename-over-time-smoothed-chart.svg" alt="This chart shows how your EffectVariableName changes over time." title="EffectVariableName Over Time (Smoothed)">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/effectvariablename/daily-effectvariablename-distribution-chart.svg" alt="Daily EffectVariableName Distribution">
+                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/effectvariablename/daily-effectvariablename-distribution-chart.svg" alt="Each column represents the number of days this value occurred." title="Daily EffectVariableName Distribution">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/effectvariablename/average-effectvariablename-by-day-of-week-chart.svg" alt="Average EffectVariableName by Day of Week">
+                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/effectvariablename/average-effectvariablename-by-day-of-week-chart.svg" alt="This chart shows the typical value recorded for EffectVariableName on each day of the week." title="Average EffectVariableName by Day of Week">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/effectvariablename/average-effectvariablename-by-month-chart.svg" alt="Average EffectVariableName by Month">
+                <img src="https://d2u41rntmognc9.cloudfront.net/testing/charts/2/effectvariablename/average-effectvariablename-by-month-chart.svg" alt="This chart shows the typical value recorded for EffectVariableName for each month of the year." title="Average EffectVariableName by Month">
 </div>
 <br><div id="study-text" class="study-text" style="padding: 20px;">
 <h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Abstract</h2>
-<div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>You recorded 0 milligrams CauseVariableName 6 years ago. Your EffectVariableName is generally 2.66% lower than normal after 44 milligrams CauseVariableName per 24 hours. Your data suggests with a low degree of confidence (p=0.35787266438051, 95% CI -9.259 to 9.339) that CauseVariableName has a very weakly positive predictive relationship (R=0.04) with EffectVariableName. The highest quartile of EffectVariableName measurements were observed following an average 47.27 milligrams CauseVariableName per day. The lowest quartile of EffectVariableName measurements were observed following an average 44.764705882353 mg CauseVariableName per day.EffectVariableName is generally generally 2.66% lower than normal after a total of 44.764705882353 milligrams of CauseVariableName intake over the previous 24 hours. EffectVariableName is generally 2.94% higher after a total of 47.27 milligrams of CauseVariableName intake over the previous 24 hours. </div>
+<div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>You recorded 0 milligrams CauseVariableName 6 years ago. Your EffectVariableName is generally -1.68% lower than normal after 47 milligrams CauseVariableName per 24 hours. Your data suggests with a low degree of confidence (p=0.382561238232, 95% CI -9.764 to 9.844) that CauseVariableName has a very weakly positive predictive relationship (R=0.04) with EffectVariableName. The highest quartile of EffectVariableName measurements were observed following an average 49.88 milligrams CauseVariableName per day. The lowest quartile of EffectVariableName measurements were observed following an average 49.918367346939 mg CauseVariableName per day.EffectVariableName is generally generally 1.68% lower than normal after a total of 49.918367346939 milligrams of CauseVariableName intake over the previous 24 hours. EffectVariableName is generally 1.72% higher after a total of 49.88 milligrams of CauseVariableName intake over the previous 24 hours. </div>
 <br><h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Objective</h2>
 <div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>The objective of this study is to determine the nature of the relationship (if any) between CauseVariableName and EffectVariableName. Additionally, we attempt to determine the CauseVariableName values most likely to produce optimal EffectVariableName values. </div>
 <br><h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Participant Instructions</h2>
@@ -153,12 +153,12 @@ last_modified_at: 2019-01-25 16:23:02
 </td>
                </tr></table>
 </center>
-<br><b>Data Quantity</b> <br>100 raw CauseVariableName measurements with 100 changes spanning 99 days from 2012-09-19 to 2012-12-27 were used in this analysis. 100 raw EffectVariableName measurements with 99 changes spanning 99 days from 2012-09-19 to 2012-12-27 were used in this analysis. </div>
+<br><b>Data Quantity</b> <br>100 raw CauseVariableName measurements with 99 changes spanning 99 days from 2012-09-19 to 2012-12-27 were used in this analysis. 100 raw EffectVariableName measurements with 98 changes spanning 99 days from 2012-09-19 to 2012-12-27 were used in this analysis. </div>
 <br><h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Data Sources</h2>
 <div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>CauseVariableName data was primarily collected using <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a>.  <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a> allows you to easily track mood, symptoms, or any outcome you want to optimize in a fraction of a second.  You can also import your data from over 30 other apps and devices.  <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a> then analyzes your data to identify which hidden factors are most likely to be influencing your mood or symptoms.<br><br>EffectVariableName data was primarily collected using <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a>.  <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a> allows you to easily track mood, symptoms, or any outcome you want to optimize in a fraction of a second.  You can also import your data from over 30 other apps and devices.  <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a> then analyzes your data to identify which hidden factors are most likely to be influencing your mood or symptoms.</div>
 <br><h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Limitations</h2>
 <div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>As with any human experiment, it was impossible to control for all potentially confounding variables. Correlation does not necessarily imply correlation.  We can never know for sure if one factor is definitely the cause of an outcome. However, lack of correlation definitely implies the lack of a causal relationship.  Hence, we can with great confidence rule out non-existent relationships. For instance, if we discover no relationship between mood and an antidepressant this information is just as or even more valuable than the discovery that there is a relationship. <br> We can also take advantage of several characteristics of time series data from many subjects to infer the likelihood of a causal relationship if we do find a correlational relationship. The criteria for causation are a group of minimal conditions necessary to provide adequate evidence of a causal relationship between an incidence and a possible consequence. <br><br> The list of the criteria is as follows: <br><b>Strength (A.K.A. Effect Size)</b><br>A small association does not mean that there is not a causal effect, though the larger the association, the more likely that it is causal. There is a very weakly positive relationship between CauseVariableName intake and EffectVariableName<br><br><b>Consistency (A.K.A. Reproducibility)</b><br>Consistent findings observed by different persons in different places with different samples strengthens the likelihood of an effect. Furthermore, in accordance with the law of large numbers (LLN), the predictive power and accuracy of these results will continually grow over time.  99 paired data points were used in this analysis.   Assuming that the relationship is merely coincidental, as the participant independently modifies their CauseVariableName intake values, the observed strength of the relationship will decline until it is below the threshold of significance.  To it another way, in the case that we do find a spurious correlation, suggesting that banana intake improves mood for instance, one will likely increase their banana intake.  Due to the fact that this correlation is spurious, it is unlikely that you will see a continued and persistent corresponding increase in mood.  So over time, the spurious correlation will naturally dissipate. <br><br><b>Specificity</b><br>Causation is likely if a very specific population at a specific site and disease with no other likely explanation. The more specific an association between a factor and an effect is, the bigger the probability of a causal relationship.<br><br><b>Temporality</b><br>The effect has to occur after the cause (and if there is an expected delay between the cause and expected effect, then the effect must occur after that delay). The confidence in a causal relationship is bolstered by the fact that time-precedence was taken into account in all calculations.<br><br><b>Biological Gradient</b><br>Greater exposure should generally lead to greater incidence of the effect. However, in some cases, the mere presence of the factor can trigger the effect. In other cases, an inverse proportion is observed: greater exposure leads to lower incidence.<br><br><b>Plausibility</b><br>A plausible bio-chemical mechanism between cause and effect is critical.  This is where human brains excel. Based on our responses so far, 0 humans feel that there is a plausible mechanism of action and 0 feel that any relationship observed between CauseVariableName intake and EffectVariableName is coincidental. <br><br><b>Coherence</b><br>Coherence between epidemiological and laboratory findings increases the likelihood of an effect.  It will be very enlightening to aggregate this data with the data from other participants 
-                with similar genetic, diseasomic, environmentomic, and demographic profiles.<br><br><b>Experiment</b><br>All of human life can be considered a natural experiment. Occasionally, it is possible to appeal to experimental evidence.<br><br><b>Analogy</b><br>The effect of similar factors may be considered.<br>
+                with similar genetic, diseasomic, environmentomic, and demographic profiles.<br><br><b>Experiment</b><br>All of human life can be considered a natural experiment. Occasionally, it is possible to appeal to experimental evidence.<br><br><b>Analogy</b><br>The effect of similar factors may be considered.<br><br>Potential Issues Identified During Analysis<br>The average of effect values expected to be lower than average (51.2) are actually higher than the average (50.353535353535). This suggests a weak relationship or insufficient data.<br>The average of effect values expected to be higher than average (49.489795918367) are actually lower than the average (50.353535353535). This suggests a weak relationship or insufficient data.<br>The low effect change is greater than the high effect change.<br>
 </div>
 <br>
 </div>
@@ -188,7 +188,7 @@ last_modified_at: 2019-01-25 16:23:02
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Confidence  Interval</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">9.299397073006</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">9.8036754976005</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Forward  Pearson  Correlation  Coefficient</td>
@@ -200,11 +200,11 @@ last_modified_at: 2019-01-25 16:23:02
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Total  Cause Variable Name intake  Over  Previous 24 hours  Before ABOVE  Average  Effect Variable Name</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">47.27 milligrams</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">49.88 milligrams</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Total  Cause Variable Name intake  Over  Previous 24 hours  Before BELOW  Average  Effect Variable Name</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">44.765 milligrams</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">49.918 milligrams</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Duration of  Action</td>
@@ -220,19 +220,19 @@ last_modified_at: 2019-01-25 16:23:02
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Optimal  Pearson  Product</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">0.0036456339350449</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">-5.3219322713776E-5</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">P  Value</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">0.35787266438051</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">0.382561238232</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Statistical  Significance</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">0.82862205227685</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">0.82750856978017</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Strength of  Relationship</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">9.299397073006</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">9.8036754976005</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Study  Type</td>
@@ -271,7 +271,7 @@ last_modified_at: 2019-01-25 16:23:02
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Kurtosis</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">1.7891647107923</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">1.7977141291992</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Minimum  Allowed  Value</td>
@@ -279,7 +279,7 @@ last_modified_at: 2019-01-25 16:23:02
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Changes</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">100</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">99</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Measurements</td>
@@ -291,7 +291,7 @@ last_modified_at: 2019-01-25 16:23:02
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Standard  Deviation</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">31.087340174761</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">33.206030912598</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Unit</td>
@@ -303,7 +303,7 @@ last_modified_at: 2019-01-25 16:23:02
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1); border-bottom: none;">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left; border-bottom-left-radius: 3px;">Variance</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">966.42271914132</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">1102.6404889684</td>
                 </tr>
 </tbody>
 </table>
@@ -334,11 +334,11 @@ last_modified_at: 2019-01-25 16:23:02
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Kurtosis</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">1.8246608787143</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">1.8251228351383</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Changes</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">99</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">98</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Measurements</td>
@@ -350,7 +350,7 @@ last_modified_at: 2019-01-25 16:23:02
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Standard  Deviation</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">27.556624897791</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">29.075191618917</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Unit</td>
@@ -362,7 +362,7 @@ last_modified_at: 2019-01-25 16:23:02
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1); border-bottom: none;">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left; border-bottom-left-radius: 3px;">Variance</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">759.36757575758</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">845.36676767677</td>
                 </tr>
 </tbody>
 </table>

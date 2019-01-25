@@ -12,7 +12,7 @@ categories:
 tags:
     - Sleep Quality
     - Overall Mood
-last_modified_at: 2019-01-25 17:28:41
+last_modified_at: 2019-01-25 18:29:40
 ---
         
 <html>
@@ -56,40 +56,40 @@ last_modified_at: 2019-01-25 17:28:41
                </tr></table>
 </center>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1448-effect-1398-user-230-user-study/sleep-quality-overall-mood-over-time-chart.svg" alt="Sleep Quality &amp; Overall Mood Over Time">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1448-effect-1398-user-230-user-study/sleep-quality-overall-mood-over-time-chart.svg" alt="Each Sleep Quality point is the mean over the previous 7 days" title="Sleep Quality &amp; Overall Mood Over Time">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1448-effect-1398-user-230-user-study/overall-mood-following-sleep-quality-chart.svg" alt="Overall Mood Following Sleep Quality">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1448-effect-1398-user-230-user-study/overall-mood-following-sleep-quality-chart.svg" alt="An increase in 7 days cumulative Sleep Quality is usually followed by an increase in Overall Mood. (R = 0.586)" title="Overall Mood Following Sleep Quality">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1448-effect-1398-user-230-user-study/average-overall-mood-by-previous-sleep-quality-chart.svg" alt="Average Overall Mood by Previous Sleep Quality">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1448-effect-1398-user-230-user-study/average-overall-mood-by-previous-sleep-quality-chart.svg" alt="This chart shows the typical value for Overall Mood following a given amount of Sleep Quality over the previous 7 days. " title="Average Overall Mood by Previous Sleep Quality">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1448-effect-1398-user-230-user-study/average-sleep-quality-preceding-overall-mood-chart.svg" alt="Average Sleep Quality Preceding Overall Mood">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1448-effect-1398-user-230-user-study/average-sleep-quality-preceding-overall-mood-chart.svg" alt="This chart shows the typical value for Sleep Quality over the previous 7 days preceding a given value of Overall Mood." title="Average Sleep Quality Preceding Overall Mood">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/sleep-quality/sleep-quality-over-time-smoothed-chart.svg" alt="Sleep Quality Over Time (Smoothed)">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/sleep-quality/sleep-quality-over-time-smoothed-chart.svg" alt="This chart shows how your Sleep Quality changes over time." title="Sleep Quality Over Time (Smoothed)">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/sleep-quality/daily-sleep-quality-distribution-chart.svg" alt="Daily Sleep Quality Distribution">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/sleep-quality/daily-sleep-quality-distribution-chart.svg" alt="Each column represents the number of days this value occurred." title="Daily Sleep Quality Distribution">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/sleep-quality/average-sleep-quality-by-day-of-week-chart.svg" alt="Average Sleep Quality by Day of Week">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/sleep-quality/average-sleep-quality-by-day-of-week-chart.svg" alt="This chart shows the typical value recorded for Sleep Quality on each day of the week." title="Average Sleep Quality by Day of Week">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/sleep-quality/average-sleep-quality-by-month-chart.svg" alt="Average Sleep Quality by Month">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/sleep-quality/average-sleep-quality-by-month-chart.svg" alt="This chart shows the typical value recorded for Sleep Quality for each month of the year." title="Average Sleep Quality by Month">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/overall-mood-over-time-smoothed-chart.svg" alt="Overall Mood Over Time (Smoothed)">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/overall-mood-over-time-smoothed-chart.svg" alt="This chart shows how your Overall Mood changes over time." title="Overall Mood Over Time (Smoothed)">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/daily-overall-mood-distribution-chart.svg" alt="Daily Overall Mood Distribution">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/daily-overall-mood-distribution-chart.svg" alt="Each column represents the number of days this value occurred." title="Daily Overall Mood Distribution">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-day-of-week-chart.svg" alt="Average Overall Mood by Day of Week">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-day-of-week-chart.svg" alt="This chart shows the typical value recorded for Overall Mood on each day of the week." title="Average Overall Mood by Day of Week">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-month-chart.svg" alt="Average Overall Mood by Month">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-month-chart.svg" alt="This chart shows the typical value recorded for Overall Mood for each month of the year." title="Average Overall Mood by Month">
 </div>
 <br><div id="study-text" class="study-text" style="padding: 20px;">
 <h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Abstract</h2>

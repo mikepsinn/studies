@@ -12,7 +12,7 @@ categories:
 tags:
     - Acetyl-L-Carnitine
     - Overall Mood
-last_modified_at: 2019-01-25 17:28:54
+last_modified_at: 2019-01-25 18:29:48
 ---
         
 <html>
@@ -56,40 +56,40 @@ last_modified_at: 2019-01-25 17:28:54
                </tr></table>
 </center>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1248-effect-1398-user-230-user-study/acetyl-l-carnitine-intake-overall-mood-over-time-chart.svg" alt="Acetyl-L-Carnitine Intake &amp; Overall Mood Over Time">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1248-effect-1398-user-230-user-study/acetyl-l-carnitine-intake-overall-mood-over-time-chart.svg" alt="Each Acetyl-L-Carnitine intake point is the sum over the previous 7 days" title="Acetyl-L-Carnitine Intake &amp; Overall Mood Over Time">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1248-effect-1398-user-230-user-study/overall-mood-following-acetyl-l-carnitine-intake-chart.svg" alt="Overall Mood Following Acetyl-L-Carnitine Intake">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1248-effect-1398-user-230-user-study/overall-mood-following-acetyl-l-carnitine-intake-chart.svg" alt="An increase in 7 days cumulative Acetyl-L-Carnitine intake is usually followed by an increase in Overall Mood. (R = 0.471)" title="Overall Mood Following Acetyl-L-Carnitine Intake">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1248-effect-1398-user-230-user-study/average-overall-mood-by-previous-acetyl-l-carnitine-intake-chart.svg" alt="Average Overall Mood by Previous Acetyl-L-Carnitine Intake">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1248-effect-1398-user-230-user-study/average-overall-mood-by-previous-acetyl-l-carnitine-intake-chart.svg" alt="This chart shows the typical value for Overall Mood following a given amount of Acetyl-L-Carnitine intake over the previous 7 days. " title="Average Overall Mood by Previous Acetyl-L-Carnitine Intake">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1248-effect-1398-user-230-user-study/average-acetyl-l-carnitine-intake-preceding-overall-mood-chart.svg" alt="Average Acetyl-L-Carnitine Intake Preceding Overall Mood">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1248-effect-1398-user-230-user-study/average-acetyl-l-carnitine-intake-preceding-overall-mood-chart.svg" alt="This chart shows the typical value for Acetyl-L-Carnitine intake over the previous 7 days preceding a given value of Overall Mood." title="Average Acetyl-L-Carnitine Intake Preceding Overall Mood">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/acetyl-l-carnitine/acetyl-l-carnitine-over-time-smoothed-chart.svg" alt="Acetyl-L-Carnitine Over Time (Smoothed)">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/acetyl-l-carnitine/acetyl-l-carnitine-over-time-smoothed-chart.svg" alt="This chart shows how your Acetyl-L-Carnitine changes over time." title="Acetyl-L-Carnitine Over Time (Smoothed)">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/acetyl-l-carnitine/daily-acetyl-l-carnitine-distribution-chart.svg" alt="Daily Acetyl-L-Carnitine Distribution">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/acetyl-l-carnitine/daily-acetyl-l-carnitine-distribution-chart.svg" alt="Each column represents the number of days this value occurred." title="Daily Acetyl-L-Carnitine Distribution">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/acetyl-l-carnitine/average-acetyl-l-carnitine-by-day-of-week-chart.svg" alt="Average Acetyl-L-Carnitine by Day of Week">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/acetyl-l-carnitine/average-acetyl-l-carnitine-by-day-of-week-chart.svg" alt="This chart shows the typical value recorded for Acetyl-L-Carnitine on each day of the week." title="Average Acetyl-L-Carnitine by Day of Week">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/acetyl-l-carnitine/average-acetyl-l-carnitine-by-month-chart.svg" alt="Average Acetyl-L-Carnitine by Month">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/acetyl-l-carnitine/average-acetyl-l-carnitine-by-month-chart.svg" alt="This chart shows the typical value recorded for Acetyl-L-Carnitine for each month of the year." title="Average Acetyl-L-Carnitine by Month">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/overall-mood-over-time-smoothed-chart.svg" alt="Overall Mood Over Time (Smoothed)">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/overall-mood-over-time-smoothed-chart.svg" alt="This chart shows how your Overall Mood changes over time." title="Overall Mood Over Time (Smoothed)">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/daily-overall-mood-distribution-chart.svg" alt="Daily Overall Mood Distribution">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/daily-overall-mood-distribution-chart.svg" alt="Each column represents the number of days this value occurred." title="Daily Overall Mood Distribution">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-day-of-week-chart.svg" alt="Average Overall Mood by Day of Week">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-day-of-week-chart.svg" alt="This chart shows the typical value recorded for Overall Mood on each day of the week." title="Average Overall Mood by Day of Week">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-month-chart.svg" alt="Average Overall Mood by Month">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-month-chart.svg" alt="This chart shows the typical value recorded for Overall Mood for each month of the year." title="Average Overall Mood by Month">
 </div>
 <br><div id="study-text" class="study-text" style="padding: 20px;">
 <h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Abstract</h2>

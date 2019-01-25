@@ -12,7 +12,7 @@ categories:
 tags:
     - Vegetable Skillet
     - Overall Mood
-last_modified_at: 2019-01-25 17:29:33
+last_modified_at: 2019-01-25 18:30:07
 ---
         
 <html>
@@ -56,40 +56,40 @@ last_modified_at: 2019-01-25 17:29:33
                </tr></table>
 </center>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1668-effect-1398-user-230-user-study/vegetable-skillet-consumption-overall-mood-over-time-chart.svg" alt="Vegetable Skillet Consumption &amp; Overall Mood Over Time">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1668-effect-1398-user-230-user-study/vegetable-skillet-consumption-overall-mood-over-time-chart.svg" alt="Each Vegetable Skillet consumption point is the sum over the previous 7 days" title="Vegetable Skillet Consumption &amp; Overall Mood Over Time">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1668-effect-1398-user-230-user-study/overall-mood-following-vegetable-skillet-consumption-chart.svg" alt="Overall Mood Following Vegetable Skillet Consumption">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1668-effect-1398-user-230-user-study/overall-mood-following-vegetable-skillet-consumption-chart.svg" alt="An increase in 7 days cumulative Vegetable Skillet consumption is usually followed by an increase in Overall Mood. (R = 0.39)" title="Overall Mood Following Vegetable Skillet Consumption">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1668-effect-1398-user-230-user-study/average-overall-mood-by-previous-vegetable-skillet-consumption-chart.svg" alt="Average Overall Mood by Previous Vegetable Skillet Consumption">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1668-effect-1398-user-230-user-study/average-overall-mood-by-previous-vegetable-skillet-consumption-chart.svg" alt="This chart shows the typical value for Overall Mood following a given amount of Vegetable Skillet consumption over the previous 7 days. " title="Average Overall Mood by Previous Vegetable Skillet Consumption">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1668-effect-1398-user-230-user-study/average-vegetable-skillet-consumption-preceding-overall-mood-chart.svg" alt="Average Vegetable Skillet Consumption Preceding Overall Mood">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1668-effect-1398-user-230-user-study/average-vegetable-skillet-consumption-preceding-overall-mood-chart.svg" alt="This chart shows the typical value for Vegetable Skillet consumption over the previous 7 days preceding a given value of Overall Mood." title="Average Vegetable Skillet Consumption Preceding Overall Mood">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/vegetable-skillet/vegetable-skillet-over-time-smoothed-chart.svg" alt="Vegetable Skillet Over Time (Smoothed)">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/vegetable-skillet/vegetable-skillet-over-time-smoothed-chart.svg" alt="This chart shows how your Vegetable Skillet changes over time." title="Vegetable Skillet Over Time (Smoothed)">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/vegetable-skillet/daily-vegetable-skillet-distribution-chart.svg" alt="Daily Vegetable Skillet Distribution">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/vegetable-skillet/daily-vegetable-skillet-distribution-chart.svg" alt="Each column represents the number of days this value occurred." title="Daily Vegetable Skillet Distribution">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/vegetable-skillet/average-vegetable-skillet-by-day-of-week-chart.svg" alt="Average Vegetable Skillet by Day of Week">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/vegetable-skillet/average-vegetable-skillet-by-day-of-week-chart.svg" alt="This chart shows the typical value recorded for Vegetable Skillet on each day of the week." title="Average Vegetable Skillet by Day of Week">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/vegetable-skillet/average-vegetable-skillet-by-month-chart.svg" alt="Average Vegetable Skillet by Month">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/vegetable-skillet/average-vegetable-skillet-by-month-chart.svg" alt="This chart shows the typical value recorded for Vegetable Skillet for each month of the year." title="Average Vegetable Skillet by Month">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/overall-mood-over-time-smoothed-chart.svg" alt="Overall Mood Over Time (Smoothed)">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/overall-mood-over-time-smoothed-chart.svg" alt="This chart shows how your Overall Mood changes over time." title="Overall Mood Over Time (Smoothed)">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/daily-overall-mood-distribution-chart.svg" alt="Daily Overall Mood Distribution">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/daily-overall-mood-distribution-chart.svg" alt="Each column represents the number of days this value occurred." title="Daily Overall Mood Distribution">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-day-of-week-chart.svg" alt="Average Overall Mood by Day of Week">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-day-of-week-chart.svg" alt="This chart shows the typical value recorded for Overall Mood on each day of the week." title="Average Overall Mood by Day of Week">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-month-chart.svg" alt="Average Overall Mood by Month">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-month-chart.svg" alt="This chart shows the typical value recorded for Overall Mood for each month of the year." title="Average Overall Mood by Month">
 </div>
 <br><div id="study-text" class="study-text" style="padding: 20px;">
 <h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Abstract</h2>

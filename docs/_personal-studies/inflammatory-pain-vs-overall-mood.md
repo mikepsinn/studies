@@ -12,7 +12,7 @@ categories:
 tags:
     - Inflammatory Pain
     - Overall Mood
-last_modified_at: 2019-01-25 17:30:17
+last_modified_at: 2019-01-25 18:30:29
 ---
         
 <html>
@@ -56,40 +56,40 @@ last_modified_at: 2019-01-25 17:30:17
                </tr></table>
 </center>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1340-effect-1398-user-230-user-study/inflammatory-pain-overall-mood-over-time-chart.svg" alt="Inflammatory Pain &amp; Overall Mood Over Time">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1340-effect-1398-user-230-user-study/inflammatory-pain-overall-mood-over-time-chart.svg" alt="Each Inflammatory Pain point is the mean over the previous 7 days" title="Inflammatory Pain &amp; Overall Mood Over Time">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1340-effect-1398-user-230-user-study/overall-mood-following-inflammatory-pain-chart.svg" alt="Overall Mood Following Inflammatory Pain">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1340-effect-1398-user-230-user-study/overall-mood-following-inflammatory-pain-chart.svg" alt="An increase in 7 days cumulative Inflammatory Pain is usually followed by an decrease in Overall Mood. (R = -0.596)" title="Overall Mood Following Inflammatory Pain">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1340-effect-1398-user-230-user-study/average-overall-mood-by-previous-inflammatory-pain-chart.svg" alt="Average Overall Mood by Previous Inflammatory Pain">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1340-effect-1398-user-230-user-study/average-overall-mood-by-previous-inflammatory-pain-chart.svg" alt="This chart shows the typical value for Overall Mood following a given amount of Inflammatory Pain over the previous 7 days. " title="Average Overall Mood by Previous Inflammatory Pain">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1340-effect-1398-user-230-user-study/average-inflammatory-pain-preceding-overall-mood-chart.svg" alt="Average Inflammatory Pain Preceding Overall Mood">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1340-effect-1398-user-230-user-study/average-inflammatory-pain-preceding-overall-mood-chart.svg" alt="This chart shows the typical value for Inflammatory Pain over the previous 7 days preceding a given value of Overall Mood." title="Average Inflammatory Pain Preceding Overall Mood">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/inflammatory-pain/inflammatory-pain-over-time-smoothed-chart.svg" alt="Inflammatory Pain Over Time (Smoothed)">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/inflammatory-pain/inflammatory-pain-over-time-smoothed-chart.svg" alt="This chart shows how your Inflammatory Pain changes over time." title="Inflammatory Pain Over Time (Smoothed)">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/inflammatory-pain/daily-inflammatory-pain-distribution-chart.svg" alt="Daily Inflammatory Pain Distribution">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/inflammatory-pain/daily-inflammatory-pain-distribution-chart.svg" alt="Each column represents the number of days this value occurred." title="Daily Inflammatory Pain Distribution">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/inflammatory-pain/average-inflammatory-pain-by-day-of-week-chart.svg" alt="Average Inflammatory Pain by Day of Week">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/inflammatory-pain/average-inflammatory-pain-by-day-of-week-chart.svg" alt="This chart shows the typical value recorded for Inflammatory Pain on each day of the week." title="Average Inflammatory Pain by Day of Week">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/inflammatory-pain/average-inflammatory-pain-by-month-chart.svg" alt="Average Inflammatory Pain by Month">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/inflammatory-pain/average-inflammatory-pain-by-month-chart.svg" alt="This chart shows the typical value recorded for Inflammatory Pain for each month of the year." title="Average Inflammatory Pain by Month">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/overall-mood-over-time-smoothed-chart.svg" alt="Overall Mood Over Time (Smoothed)">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/overall-mood-over-time-smoothed-chart.svg" alt="This chart shows how your Overall Mood changes over time." title="Overall Mood Over Time (Smoothed)">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/daily-overall-mood-distribution-chart.svg" alt="Daily Overall Mood Distribution">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/daily-overall-mood-distribution-chart.svg" alt="Each column represents the number of days this value occurred." title="Daily Overall Mood Distribution">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-day-of-week-chart.svg" alt="Average Overall Mood by Day of Week">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-day-of-week-chart.svg" alt="This chart shows the typical value recorded for Overall Mood on each day of the week." title="Average Overall Mood by Day of Week">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-month-chart.svg" alt="Average Overall Mood by Month">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-month-chart.svg" alt="This chart shows the typical value recorded for Overall Mood for each month of the year." title="Average Overall Mood by Month">
 </div>
 <br><div id="study-text" class="study-text" style="padding: 20px;">
 <h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Abstract</h2>

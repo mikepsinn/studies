@@ -12,7 +12,7 @@ categories:
 tags:
     - Gluten Free Pasta With Olive Oil
     - Overall Mood
-last_modified_at: 2019-01-25 17:30:29
+last_modified_at: 2019-01-25 18:30:34
 ---
         
 <html>
@@ -56,40 +56,40 @@ last_modified_at: 2019-01-25 17:30:29
                </tr></table>
 </center>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1632-effect-1398-user-230-user-study/gluten-free-pasta-with-olive-oil-consumption-overall-mood-over-time-chart.svg" alt="Gluten Free Pasta With Olive Oil Consumption &amp; Overall Mood Over Time">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1632-effect-1398-user-230-user-study/gluten-free-pasta-with-olive-oil-consumption-overall-mood-over-time-chart.svg" alt="Each Gluten Free Pasta With Olive Oil consumption point is the sum over the previous 7 days" title="Gluten Free Pasta With Olive Oil Consumption &amp; Overall Mood Over Time">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1632-effect-1398-user-230-user-study/overall-mood-following-gluten-free-pasta-with-olive-oil-consumption-chart.svg" alt="Overall Mood Following Gluten Free Pasta With Olive Oil Consumption">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1632-effect-1398-user-230-user-study/overall-mood-following-gluten-free-pasta-with-olive-oil-consumption-chart.svg" alt="An increase in 7 days cumulative Gluten Free Pasta With Olive Oil consumption is usually followed by an increase in Overall Mood. (R = 0.402)" title="Overall Mood Following Gluten Free Pasta With Olive Oil Consumption">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1632-effect-1398-user-230-user-study/average-overall-mood-by-previous-gluten-free-pasta-with-olive-oil-consumption-chart.svg" alt="Average Overall Mood by Previous Gluten Free Pasta With Olive Oil Consumption">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1632-effect-1398-user-230-user-study/average-overall-mood-by-previous-gluten-free-pasta-with-olive-oil-consumption-chart.svg" alt="This chart shows the typical value for Overall Mood following a given amount of Gluten Free Pasta With Olive Oil consumption over the previous 7 days. " title="Average Overall Mood by Previous Gluten Free Pasta With Olive Oil Consumption">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1632-effect-1398-user-230-user-study/average-gluten-free-pasta-with-olive-oil-consumption-preceding-overall-mood-chart.svg" alt="Average Gluten Free Pasta With Olive Oil Consumption Preceding Overall Mood">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1632-effect-1398-user-230-user-study/average-gluten-free-pasta-with-olive-oil-consumption-preceding-overall-mood-chart.svg" alt="This chart shows the typical value for Gluten Free Pasta With Olive Oil consumption over the previous 7 days preceding a given value of Overall Mood." title="Average Gluten Free Pasta With Olive Oil Consumption Preceding Overall Mood">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/gluten-free-pasta-with-olive-oil/gluten-free-pasta-with-olive-oil-over-time-smoothed-chart.svg" alt="Gluten Free Pasta With Olive Oil Over Time (Smoothed)">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/gluten-free-pasta-with-olive-oil/gluten-free-pasta-with-olive-oil-over-time-smoothed-chart.svg" alt="This chart shows how your Gluten Free Pasta With Olive Oil changes over time." title="Gluten Free Pasta With Olive Oil Over Time (Smoothed)">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/gluten-free-pasta-with-olive-oil/daily-gluten-free-pasta-with-olive-oil-distribution-chart.svg" alt="Daily Gluten Free Pasta With Olive Oil Distribution">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/gluten-free-pasta-with-olive-oil/daily-gluten-free-pasta-with-olive-oil-distribution-chart.svg" alt="Each column represents the number of days this value occurred." title="Daily Gluten Free Pasta With Olive Oil Distribution">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/gluten-free-pasta-with-olive-oil/average-gluten-free-pasta-with-olive-oil-by-day-of-week-chart.svg" alt="Average Gluten Free Pasta With Olive Oil by Day of Week">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/gluten-free-pasta-with-olive-oil/average-gluten-free-pasta-with-olive-oil-by-day-of-week-chart.svg" alt="This chart shows the typical value recorded for Gluten Free Pasta With Olive Oil on each day of the week." title="Average Gluten Free Pasta With Olive Oil by Day of Week">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/gluten-free-pasta-with-olive-oil/average-gluten-free-pasta-with-olive-oil-by-month-chart.svg" alt="Average Gluten Free Pasta With Olive Oil by Month">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/gluten-free-pasta-with-olive-oil/average-gluten-free-pasta-with-olive-oil-by-month-chart.svg" alt="This chart shows the typical value recorded for Gluten Free Pasta With Olive Oil for each month of the year." title="Average Gluten Free Pasta With Olive Oil by Month">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/overall-mood-over-time-smoothed-chart.svg" alt="Overall Mood Over Time (Smoothed)">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/overall-mood-over-time-smoothed-chart.svg" alt="This chart shows how your Overall Mood changes over time." title="Overall Mood Over Time (Smoothed)">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/daily-overall-mood-distribution-chart.svg" alt="Daily Overall Mood Distribution">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/daily-overall-mood-distribution-chart.svg" alt="Each column represents the number of days this value occurred." title="Daily Overall Mood Distribution">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-day-of-week-chart.svg" alt="Average Overall Mood by Day of Week">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-day-of-week-chart.svg" alt="This chart shows the typical value recorded for Overall Mood on each day of the week." title="Average Overall Mood by Day of Week">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-month-chart.svg" alt="Average Overall Mood by Month">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/average-overall-mood-by-month-chart.svg" alt="This chart shows the typical value recorded for Overall Mood for each month of the year." title="Average Overall Mood by Month">
 </div>
 <br><div id="study-text" class="study-text" style="padding: 20px;">
 <h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Abstract</h2>

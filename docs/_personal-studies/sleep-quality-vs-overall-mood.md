@@ -12,7 +12,7 @@ categories:
 tags:
     - Sleep Quality
     - Overall Mood
-last_modified_at: 2019-01-27 15:43:42
+last_modified_at: 2019-01-27 16:35:09
 ---
         
 <html>
@@ -56,16 +56,16 @@ last_modified_at: 2019-01-27 15:43:42
                </tr></table>
 </center>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1448-effect-1398-user-230-user-study/sleep-quality-overall-mood-over-time-chart.svg" alt="Blue represents the mean of Sleep Qualityover the previous 7 days" title="Sleep Quality &amp; Overall Mood Over Time">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1448-effect-1398-user-230-user-study/sleep-quality-overall-mood-over-time-chart.svg" alt="Blue represents the mean of Sleep Quality over the previous 7 days" title="Sleep Quality &amp; Overall Mood Over Time">
 </div>
             <div style="text-align: center">
                 <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1448-effect-1398-user-230-user-study/overall-mood-following-sleep-quality-chart.svg" alt="An increase in 7 days cumulative Sleep Quality is usually followed by an increase in Overall Mood. (R = 0.586)" title="Overall Mood Following Sleep Quality">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1448-effect-1398-user-230-user-study/average-overall-mood-by-previous-sleep-quality-chart.svg" alt="This chart shows the typical value for Overall Mood following a given amount of Sleep Quality over the previous 7 days. " title="Average Overall Mood by Previous Sleep Quality">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1448-effect-1398-user-230-user-study/average-overall-mood-by-previous-sleep-quality-chart.svg" alt="Typical values for Overall Mood following a given amount of Sleep Quality over the previous 7 days. " title="Average Overall Mood by Previous Sleep Quality">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1448-effect-1398-user-230-user-study/average-sleep-quality-preceding-overall-mood-chart.svg" alt="This chart shows the typical value for Sleep Quality over the previous 7 days preceding a given value of Overall Mood." title="Average Sleep Quality Preceding Overall Mood">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1448-effect-1398-user-230-user-study/average-sleep-quality-preceding-overall-mood-chart.svg" alt="Typical Sleep Quality seen over the previous 7 days preceding the given Overall Mood value." title="Average Sleep Quality Preceding Overall Mood">
 </div>
             <div style="text-align: center">
                 <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/sleep-quality/sleep-quality-over-time-smoothed-chart.svg" alt="This chart shows how your Sleep Quality changes over time." title="Sleep Quality Over Time (Smoothed)">
@@ -240,7 +240,7 @@ last_modified_at: 2019-01-27 15:43:42
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1); border-bottom: none;">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left; border-bottom-left-radius: 3px;">Analysis  Performed  At</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">2019-01-25</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">2019-01-27</td>
                 </tr>
 </tbody>
 </table>
@@ -263,7 +263,7 @@ last_modified_at: 2019-01-27 15:43:42
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Analysis  Performed  At</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2019-01-17</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2019-01-27</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Duration of  Action</td>
@@ -346,7 +346,7 @@ last_modified_at: 2019-01-27 15:43:42
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Analysis  Performed  At</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2019-01-25</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2019-01-27</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Duration of  Action</td>

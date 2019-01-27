@@ -12,7 +12,7 @@ categories:
 tags:
     - 5 HTP
     - Overall Mood
-last_modified_at: 2019-01-27 20:07:50
+last_modified_at: 2019-01-27 20:10:52
 ---
         
 <html>
@@ -56,7 +56,7 @@ last_modified_at: 2019-01-27 20:07:50
                </tr></table>
 </center>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/population/cause-1245-effect-1398-population-study/trait-correlation-between-5-htp-intake-and-overall-mood-chart.svg" alt="Trait Correlation Between 5 HTP Intake and Overall Mood" title="Trait Correlation Between 5 HTP Intake and Overall Mood">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/population/cause-1245-effect-1398-population-study/trait-correlation-between-5-htp-intake-and-overall-mood-chart.svg" alt="People with higher 5 HTP intake usually have higher Overall Mood" title="Trait Correlation Between 5 HTP Intake and Overall Mood">
 </div>
             <div style="text-align: center">
                 <img src="https://d2u41rntmognc9.cloudfront.net/charts/population/5-htp/daily-5-htp-distribution-chart.svg" alt="Each column represents the number of days this value occurred." title="Daily 5 HTP Distribution">

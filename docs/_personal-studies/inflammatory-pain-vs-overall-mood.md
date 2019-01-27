@@ -12,7 +12,7 @@ categories:
 tags:
     - Inflammatory Pain
     - Overall Mood
-last_modified_at: 2019-01-27 15:44:22
+last_modified_at: 2019-01-27 16:35:45
 ---
         
 <html>
@@ -56,16 +56,16 @@ last_modified_at: 2019-01-27 15:44:22
                </tr></table>
 </center>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1340-effect-1398-user-230-user-study/inflammatory-pain-overall-mood-over-time-chart.svg" alt="Each Inflammatory Pain point is the mean over the previous 7 days" title="Inflammatory Pain &amp; Overall Mood Over Time">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1340-effect-1398-user-230-user-study/inflammatory-pain-overall-mood-over-time-chart.svg" alt="Blue represents the mean of Inflammatory Pain over the previous 7 days" title="Inflammatory Pain &amp; Overall Mood Over Time">
 </div>
             <div style="text-align: center">
                 <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1340-effect-1398-user-230-user-study/overall-mood-following-inflammatory-pain-chart.svg" alt="An increase in 7 days cumulative Inflammatory Pain is usually followed by an decrease in Overall Mood. (R = -0.596)" title="Overall Mood Following Inflammatory Pain">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1340-effect-1398-user-230-user-study/average-overall-mood-by-previous-inflammatory-pain-chart.svg" alt="This chart shows the typical value for Overall Mood following a given amount of Inflammatory Pain over the previous 7 days. " title="Average Overall Mood by Previous Inflammatory Pain">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1340-effect-1398-user-230-user-study/average-overall-mood-by-previous-inflammatory-pain-chart.svg" alt="Typical values for Overall Mood following a given amount of Inflammatory Pain over the previous 7 days. " title="Average Overall Mood by Previous Inflammatory Pain">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1340-effect-1398-user-230-user-study/average-inflammatory-pain-preceding-overall-mood-chart.svg" alt="This chart shows the typical value for Inflammatory Pain over the previous 7 days preceding a given value of Overall Mood." title="Average Inflammatory Pain Preceding Overall Mood">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1340-effect-1398-user-230-user-study/average-inflammatory-pain-preceding-overall-mood-chart.svg" alt="Typical Inflammatory Pain seen over the previous 7 days preceding the given Overall Mood value." title="Average Inflammatory Pain Preceding Overall Mood">
 </div>
             <div style="text-align: center">
                 <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/inflammatory-pain/inflammatory-pain-over-time-smoothed-chart.svg" alt="This chart shows how your Inflammatory Pain changes over time." title="Inflammatory Pain Over Time (Smoothed)">
@@ -153,7 +153,7 @@ last_modified_at: 2019-01-27 15:44:22
 </td>
                </tr></table>
 </center>
-<br><b>Data Quantity</b> <br>93 raw Inflammatory Pain measurements with 37 changes spanning 87 days from 2013-01-12 to 2013-04-09 were used in this analysis. 13222 raw Overall Mood measurements with 1161 changes spanning 2454 days from 2012-05-06 to 2019-01-24 were used in this analysis. </div>
+<br><b>Data Quantity</b> <br>93 raw Inflammatory Pain measurements with 37 changes spanning 87 days from 2013-01-12 to 2013-04-09 were used in this analysis. 13250 raw Overall Mood measurements with 1161 changes spanning 2455 days from 2012-05-06 to 2019-01-25 were used in this analysis. </div>
 <br><h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Data Sources</h2>
 <div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>Inflammatory Pain data was primarily collected using <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a>.  <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a> allows you to easily track mood, symptoms, or any outcome you want to optimize in a fraction of a second.  You can also import your data from over 30 other apps and devices.  <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a> then analyzes your data to identify which hidden factors are most likely to be influencing your mood or symptoms.<br><br>Overall Mood data was primarily collected using <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a>.  <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a> allows you to easily track mood, symptoms, or any outcome you want to optimize in a fraction of a second.  You can also import your data from over 30 other apps and devices.  <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a> then analyzes your data to identify which hidden factors are most likely to be influencing your mood or symptoms.</div>
 <br><h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Limitations</h2>
@@ -240,7 +240,7 @@ last_modified_at: 2019-01-27 15:44:22
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1); border-bottom: none;">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left; border-bottom-left-radius: 3px;">Analysis  Performed  At</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">2019-01-25</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">2019-01-27</td>
                 </tr>
 </tbody>
 </table>
@@ -346,7 +346,7 @@ last_modified_at: 2019-01-27 15:44:22
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Analysis  Performed  At</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2019-01-24</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2019-01-27</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Duration of  Action</td>
@@ -354,7 +354,7 @@ last_modified_at: 2019-01-27 15:44:22
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Kurtosis</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">6.7229146457097</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">6.725960482864</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Maximum  Allowed  Value</td>
@@ -362,7 +362,7 @@ last_modified_at: 2019-01-27 15:44:22
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Mean</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2.9141 out of 5</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2.9139 out of 5</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Median</td>
@@ -378,11 +378,11 @@ last_modified_at: 2019-01-27 15:44:22
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Correlations</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2909</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">4058</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Measurements</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">13222</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">13250</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Onset  Delay</td>
@@ -390,7 +390,7 @@ last_modified_at: 2019-01-27 15:44:22
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Standard  Deviation</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">0.53301712047901</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">0.53288454678104</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Unit</td>
@@ -406,7 +406,7 @@ last_modified_at: 2019-01-27 15:44:22
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1); border-bottom: none;">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left; border-bottom-left-radius: 3px;">Variance</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">0.28410725072373</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">0.28396594019803</td>
                 </tr>
 </tbody>
 </table>

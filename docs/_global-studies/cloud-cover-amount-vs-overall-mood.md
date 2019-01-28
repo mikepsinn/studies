@@ -13,6 +13,8 @@ tags:
     - Cloud Cover Amount
     - Overall Mood
 last_modified_at: 2019-01-28 05:46:48
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
 ---
         
 <html>

@@ -83,9 +83,6 @@ plugins:
 
 # Collections
 collections:
-  recipes:
-    output: true
-    permalink: /:collection/:path/
   personal-studies:
     output: true
     permalink: /:collection/:path/
@@ -99,14 +96,6 @@ defaults:
   - scope:
       path: "_posts"
       type: posts
-    values:
-      layout: post
-      comments: true
-      share: true
-  # Recipe defaults
-  - scope:
-      path: "_recipes"
-      type: recipes
     values:
       layout: post
       comments: true

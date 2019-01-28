@@ -5,14 +5,14 @@ image:
     #thumbnail: https://web.quantimo.do/img/gauges/246-120/gauge-weakly-negative-relationship.png
     thumbnail: https://s3-us-west-1.amazonaws.com/qmimages/variable_categories_gauges_background/gauge-weakly-negative-relationship_treatments_emotions_background.png
     caption: "[QuantiModo](https://quantimo.do)"
-excerpt: "For most, Overall Mood is generally highest after a total of 6 milligrams of 5 HTP intake over the previous 7 days. "
+excerpt: "For most, Overall Mood is generally highest after a daily total of 6 milligrams of 5 HTP intake over the previous 7 days. "
 categories:
     - Treatments
     - Emotions
 tags:
     - 5 HTP
     - Overall Mood
-last_modified_at: 2019-01-28 22:07:40
+last_modified_at: 2019-01-28 22:11:52
 ---
         
 <html>

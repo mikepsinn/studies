@@ -9,7 +9,7 @@ excerpt: "This individual's Overall Mood is generally highest after an average o
 categories:
     - Vital Signs
     - Emotions
-    - Personal Study
+    - Individual Case Studies
 tags:
     - Blood Pressure (Systolic - Top Number)
     - Overall Mood

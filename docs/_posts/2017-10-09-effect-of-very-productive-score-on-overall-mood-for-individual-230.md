@@ -9,7 +9,7 @@ excerpt: "This individual's Overall Mood is generally highest after a daily tota
 categories:
     - Goals
     - Emotions
-    - Personal Study
+    - Individual Case Studies
 tags:
     - Very Productive Score
     - Overall Mood

@@ -9,7 +9,7 @@ excerpt: "This individual's Overall Mood is generally highest after a daily tota
 categories:
     - Treatments
     - Emotions
-    - Personal Study
+    - Individual Case Studies
 tags:
     - Acetyl-L-Carnitine
     - Overall Mood

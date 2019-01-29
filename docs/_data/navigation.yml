@@ -1,15 +1,19 @@
 # Site navigation links
 
 # TODO:  Figure out how to generate tag and category archive pages
-- title: Posts
-  url: /posts/
-- title: Variable Categories
+#- title: Home
+#  url: /
+#- title: Posts
+#  url: /posts/
+- title: Categories
   url: /categories/
 - title: Variables
   url: /tags/
-- title: Personal Studies
-  url: /personal-studies/
-- title: Global Studies
-  url: /global-studies/
+#- title: Personal Studies
+#  url: /personal-studies/
+#- title: Global Studies
+#  url: /global-studies/
 - title: Search
   url: /search/
+# - title: External Page
+#   url: https://the-page.com/you-want-to-link-to.html

@@ -9,7 +9,7 @@ excerpt: "This individual's Overall Mood is generally highest after an average o
 categories:
     - Sleep
     - Emotions
-    - Personal Study
+    - Individual Case Studies
 tags:
     - Sleep Quality
     - Overall Mood

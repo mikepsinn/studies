@@ -9,7 +9,7 @@ excerpt: "This individual's Overall Mood is generally highest after an average o
 categories:
     - Treatments
     - Emotions
-    - Personal Study
+    - Individual Case Studies
 tags:
     - Super B Complex
     - Overall Mood

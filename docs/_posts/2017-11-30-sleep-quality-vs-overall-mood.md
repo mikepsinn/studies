@@ -55,7 +55,7 @@ tags:
                </tr></table>
 </center>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1448-effect-1398-user-230-user-study/sleep-quality-overall-mood-over-time-chart.svg" alt="Blue represents the mean of Sleep Quality over the previous 7 days" title="Sleep Quality &amp; Overall Mood Over Time">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1448-effect-1398-user-230-user-study/sleep-quality-overall-mood-over-time-chart.svg" alt="Black represents the mean of Sleep Quality over the previous 7 days" title="Sleep Quality &amp; Overall Mood Over Time">
 </div>
             <div style="text-align: center">
                 <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1448-effect-1398-user-230-user-study/overall-mood-following-sleep-quality-chart.svg" alt="An increase in 7 days cumulative Sleep Quality is usually followed by an increase in Overall Mood. (R = 0.586)" title="Overall Mood Following Sleep Quality">

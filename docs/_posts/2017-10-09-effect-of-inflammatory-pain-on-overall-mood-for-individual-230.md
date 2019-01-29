@@ -9,7 +9,7 @@ excerpt: "This individual's Overall Mood is generally highest after an average o
 categories:
     - Symptoms
     - Emotions
-    - Personal Study
+    - Individual Case Studies
 tags:
     - Inflammatory Pain
     - Overall Mood

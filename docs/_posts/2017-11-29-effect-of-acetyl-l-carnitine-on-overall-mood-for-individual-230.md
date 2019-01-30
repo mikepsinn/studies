@@ -56,16 +56,16 @@ tags:
                </tr></table>
 </center>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1248-effect-1398-user-230-user-study/acetyl-l-carnitine-intake-overall-mood-over-time-chart.svg" alt="Blue represents the sum of Acetyl-L-Carnitine intake over the previous 7 days" title="Acetyl-L-Carnitine Intake &amp; Overall Mood Over Time">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1248-effect-1398-user-230-user-study/acetyl-l-carnitine-intake-overall-mood-over-time-chart.svg" alt="Each Acetyl-L-Carnitine intake point is the sum over the previous 7 days" title="Acetyl-L-Carnitine Intake &amp; Overall Mood Over Time">
 </div>
             <div style="text-align: center">
                 <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1248-effect-1398-user-230-user-study/overall-mood-following-acetyl-l-carnitine-intake-chart.svg" alt="An increase in 7 days cumulative Acetyl-L-Carnitine intake is usually followed by an increase in Overall Mood. (R = 0.471)" title="Overall Mood Following Acetyl-L-Carnitine Intake">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1248-effect-1398-user-230-user-study/average-overall-mood-by-previous-acetyl-l-carnitine-intake-chart.svg" alt="Typical values for Overall Mood following a given amount of Acetyl-L-Carnitine intake over the previous 7 days. " title="Average Overall Mood by Previous Acetyl-L-Carnitine Intake">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1248-effect-1398-user-230-user-study/average-overall-mood-by-previous-acetyl-l-carnitine-intake-chart.svg" alt="This chart shows the typical value for Overall Mood following a given amount of Acetyl-L-Carnitine intake over the previous 7 days. " title="Average Overall Mood by Previous Acetyl-L-Carnitine Intake">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1248-effect-1398-user-230-user-study/average-acetyl-l-carnitine-intake-preceding-overall-mood-chart.svg" alt="Typical Acetyl-L-Carnitine intake seen over the previous 7 days preceding the given Overall Mood value." title="Average Acetyl-L-Carnitine Intake Preceding Overall Mood">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1248-effect-1398-user-230-user-study/average-acetyl-l-carnitine-intake-preceding-overall-mood-chart.svg" alt="This chart shows the typical value for Acetyl-L-Carnitine intake over the previous 7 days preceding a given value of Overall Mood." title="Average Acetyl-L-Carnitine Intake Preceding Overall Mood">
 </div>
             <div style="text-align: center">
                 <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/acetyl-l-carnitine/acetyl-l-carnitine-over-time-smoothed-chart.svg" alt="This chart shows how your Acetyl-L-Carnitine changes over time." title="Acetyl-L-Carnitine Over Time (Smoothed)">

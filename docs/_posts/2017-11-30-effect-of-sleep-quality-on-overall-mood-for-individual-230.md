@@ -12,13 +12,13 @@ categories:
     - Individual Case Studies
 tags:
     - Sleep Quality
-    - Mood_(psychology)
+    - Overall Mood
 ---
         
 <html>
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
 <body>
-<div id="study-tag-line" class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58; padding: 20px;'>Your Overall Mood is generally highest after an average of 3.9 out of 5 of Sleep Quality over the previous 7 days.  </div>
+<div id="study-tag-line" class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58; padding: 20px;'>This individual's Overall Mood is generally highest after an average of 3.9 out of 5 of Sleep Quality over the previous 7 days.  </div>
 <!--Button-->
             <center>
              <table align="center" cellspacing="0" cellpadding="0" width="100%"><tr>
@@ -119,15 +119,15 @@ tags:
 </td>
                </tr></table>
 </center>
-<br><b>Mood_(psychology) Pre-Processing</b><br>Mood_(psychology) measurement values below 1 out of 5 were assumed erroneous and removed. Mood_(psychology) measurement values above 5 out of 5 were assumed erroneous and removed. No missing data filling value was defined for Mood_(psychology) so any gaps in data were just not analyzed instead of assuming zero values for those times. <br><!--Button--><center>
+<br><b>Overall Mood Pre-Processing</b><br>Overall Mood measurement values below 1 out of 5 were assumed erroneous and removed. Overall Mood measurement values above 5 out of 5 were assumed erroneous and removed. No missing data filling value was defined for Overall Mood so any gaps in data were just not analyzed instead of assuming zero values for those times. <br><!--Button--><center>
              <table align="center" cellspacing="0" cellpadding="0" width="100%" style="border-collapse: collapse;"><tr>
 <td align="center" style="font-family: Helvetica, Arial, sans-serif; font-weight: 400; text-align: center; padding: 10px;">
                    <table border="0" class="mobile-button" cellspacing="0" cellpadding="0" style="border-collapse: collapse;"><tr>
 <td align="center" bgcolor="#2b3138" width="100%" style="font-family: Helvetica, Arial, sans-serif; font-weight: 400; text-align: center; background-color: #2b3138; margin: auto; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px;">
                        <!--[if mso]>&nbsp;<![endif]-->
-                           <a id="mood-psychology-analysis-settings-button" href="https://web.quantimo.do/#/app/variable-settings/Overall+Mood?fromUrl=https%3A%2F%2Fweb.quantimo.do%2F%23%2Fapp%2Fstudy%3FcauseVariableId%3D1448%26effectVariableId%3D1398%26userId%3D230%26studyId%3Dcause-1448-effect-1398-user-230-user-study%26apiUrl%3Dapp.quantimo.do%26recalculate%3Dtrue&amp;apiUrl=app.quantimo.do" target="_blank" style="outline: none; font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; text-align: center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
+                           <a id="overall-mood-analysis-settings-button" href="https://web.quantimo.do/#/app/variable-settings/Overall+Mood?fromUrl=https%3A%2F%2Fweb.quantimo.do%2F%23%2Fapp%2Fstudy%3FcauseVariableId%3D1448%26effectVariableId%3D1398%26userId%3D230%26studyId%3Dcause-1448-effect-1398-user-230-user-study%26apiUrl%3Dapp.quantimo.do%26recalculate%3Dtrue&amp;apiUrl=app.quantimo.do" target="_blank" style="outline: none; font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; text-align: center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
                                <span style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; line-height: 1.5em; text-align: center;">
-                                    Mood_(psychology) Analysis Settings
+                                    Overall Mood Analysis Settings
                                </span>
                          </a>
                        <!--[if mso]>&nbsp;<![endif]-->
@@ -153,7 +153,7 @@ tags:
 </td>
                </tr></table>
 </center>
-<br><b>Data Quantity</b> <br>631 raw Sleep Quality measurements with 308 changes spanning 2364 days from 2012-05-06 to 2018-10-27 were used in this analysis. 13250 raw Overall Mood measurements with 1161 changes spanning 2455 days from 2012-05-06 to 2019-01-25 were used in this analysis. </div>
+<br><b>Data Quantity</b> <br>631 raw Sleep Quality measurements with 308 changes spanning 2364 days from 2012-05-06 to 2018-10-27 were used in this analysis. 13297 raw Overall Mood measurements with 1166 changes spanning 2464 days from 2012-05-06 to 2019-02-02 were used in this analysis. </div>
 <br><h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Data Sources</h2>
 <div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>Sleep Quality data was primarily collected using <a href="https://www.amazon.com/Fitbit-Charge-Heart-Fitness-Wristband/dp/B01K9S260E/ref=as_li_ss_tl?ie=UTF8&amp;qid=1493518902&amp;sr=8-3&amp;keywords=fitbit&amp;th=1&amp;linkCode=ll1&amp;tag=quantimodo05-20&amp;linkId=b357b0833de73b0c4e935fd7c13a079e" style="text-decoration: none; border: 0; outline: none;">Up by Jawbone</a>.  UP by Jawbone is a wristband and app that tracks how you sleep, move and eat and then helps you use that information to feel your best.<br><br>Overall Mood data was primarily collected using <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a>.  <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a> allows you to easily track mood, symptoms, or any outcome you want to optimize in a fraction of a second.  You can also import your data from over 30 other apps and devices.  <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a> then analyzes your data to identify which hidden factors are most likely to be influencing your mood or symptoms.</div>
 <br><h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Limitations</h2>
@@ -240,7 +240,7 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1); border-bottom: none;">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left; border-bottom-left-radius: 3px;">Analysis  Performed  At</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">2019-01-27</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">2019-02-03</td>
                 </tr>
 </tbody>
 </table>
@@ -329,7 +329,7 @@ tags:
 </table>
 </div>
 <br><div class="study-text" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; margin-left: -2.63px; line-height: 1.04;'>
-<div class="table-title" style="display: block; margin: auto; max-width: 600px; padding: 5px; width: 100%;"><h2>Mood_(psychology) Statistics</h2></div>
+<div class="table-title" style="display: block; margin: auto; max-width: 600px; padding: 5px; width: 100%;"><h2>Overall Mood Statistics</h2></div>
 <table class="table-fill" style="background: white; border-radius: 3px; border-collapse: collapse; height: 320px; margin: auto; max-width: 600px; padding: 5px; width: 100%; box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1); animation: float 5s infinite;">
 <thead><tr style="border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1); border-top: none; border-bottom: none;">
 <th class="text-left" style="color: #D5DDE5; background: #1b1e24; border-bottom: 4px solid #9ea7af; border-right: 1px solid #343a45; font-size: 23px; font-weight: 100; padding: 24px; text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1); vertical-align: middle; border-top-left-radius: 3px; text-align: left;">Property</th>
@@ -346,7 +346,7 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Analysis  Performed  At</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2019-01-27</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2019-02-02</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Duration of  Action</td>
@@ -354,7 +354,7 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Kurtosis</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">6.725960482864</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">6.7466887671324</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Maximum  Allowed  Value</td>
@@ -362,7 +362,7 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Mean</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2.9139 out of 5</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2.9138 out of 5</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Median</td>
@@ -374,15 +374,15 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Changes</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">1161</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">1166</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Correlations</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">4058</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2897</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Measurements</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">13250</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">13297</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Onset  Delay</td>
@@ -390,7 +390,7 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Standard  Deviation</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">0.53288454678104</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">0.53189532232551</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Unit</td>
@@ -406,7 +406,7 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1); border-bottom: none;">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left; border-bottom-left-radius: 3px;">Variance</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">0.28396594019803</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">0.28291263391176</td>
                 </tr>
 </tbody>
 </table>

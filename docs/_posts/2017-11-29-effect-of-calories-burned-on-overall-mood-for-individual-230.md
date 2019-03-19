@@ -68,7 +68,7 @@ tags:
                 <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1280-effect-1398-user-230-user-study/average-calories-burned-preceding-overall-mood-chart.svg" alt="Typical Calories Burned seen over the previous 7 days preceding the given Overall Mood value." title="Average Calories Burned Preceding Overall Mood">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/calories-burned/calories-burned-over-time-smoothed-chart.svg" alt="This chart shows how your Calories Burned changes over time." title="Calories Burned Over Time (Smoothed)">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/calories-burned/calories-burned-over-time-chart.svg" alt="This chart shows how your Calories Burned changes over time." title="Calories Burned Over Time">
 </div>
             <div style="text-align: center">
                 <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/calories-burned/daily-calories-burned-distribution-chart.svg" alt="Each column represents the number of days this value occurred." title="Daily Calories Burned Distribution">
@@ -80,7 +80,7 @@ tags:
                 <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/calories-burned/average-calories-burned-by-month-chart.svg" alt="This chart shows the typical value recorded for Calories Burned for each month of the year." title="Average Calories Burned by Month">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/overall-mood-over-time-smoothed-chart.svg" alt="This chart shows how your Overall Mood changes over time." title="Overall Mood Over Time (Smoothed)">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/overall-mood-over-time-chart.svg" alt="This chart shows how your Overall Mood changes over time." title="Overall Mood Over Time">
 </div>
             <div style="text-align: center">
                 <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/daily-overall-mood-distribution-chart.svg" alt="Each column represents the number of days this value occurred." title="Daily Overall Mood Distribution">
@@ -93,7 +93,7 @@ tags:
 </div>
 <br><div id="study-text" class="study-text" style="padding: 20px;">
 <h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Abstract</h2>
-<div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>This individual's Overall Mood is generally 0.04% higher than normal after an average of 1354 kilocalories Calories Burned over the previous 7 days. This individual's  data suggests with a medium degree of confidence (p=0.39820899072739, 95% CI -0.139 to -0.017) that Calories Burned has a very weakly negative predictive relationship (R=-0.08) with Overall Mood. The highest quartile of Overall Mood measurements were observed following an average 2 kilocalories Calories Burned. The lowest quartile of Overall Mood measurements were observed following an average 2145.1720274983 kcal Calories Burned.Overall Mood is generally 0.04% lower than normal after an average of 2145.1720274983 kilocalories of Calories Burned over the previous 7 days. Overall Mood is generally 0.04% higher after an average of 2 kilocalories of Calories Burned over the previous 7 days. </div>
+<div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>This individual's Overall Mood is generally 0% higher than normal after an average of 1354 kilocalories Calories Burned over the previous 7 days. This individual's  data suggests with a medium degree of confidence (p=0.39820899072739, 95% CI -0.139 to -0.017) that Calories Burned has a very weakly negative predictive relationship (R=-0.08) with Overall Mood. The highest quartile of Overall Mood measurements were observed following an average 2 kilocalories Calories Burned. The lowest quartile of Overall Mood measurements were observed following an average 2145.1720274983 kcal Calories Burned.Overall Mood is generally 0% lower than normal after an average of 2145.1720274983 kilocalories of Calories Burned over the previous 7 days. Overall Mood is generally 0% higher after an average of 2 kilocalories of Calories Burned over the previous 7 days. </div>
 <br><h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Objective</h2>
 <div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>The objective of this study is to determine the nature of the relationship (if any) between Calories Burned and Overall Mood. Additionally, we attempt to determine the Calories Burned values most likely to produce optimal Overall Mood values. </div>
 <br><h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Participant Instructions</h2>
@@ -228,7 +228,7 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Statistical  Significance</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">0.94749016256359</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">0.9475</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Strength of  Relationship</td>
@@ -275,11 +275,11 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Mean</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2261.5 kilocalories</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2126.9 kilocalories</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Median</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2190 kilocalories</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2121.618381286 kilocalories</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Changes</td>
@@ -287,7 +287,7 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Correlations</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2392</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">3264</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Measurements</td>

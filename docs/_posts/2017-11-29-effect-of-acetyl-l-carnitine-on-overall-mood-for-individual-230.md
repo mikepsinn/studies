@@ -26,7 +26,7 @@ tags:
                    <table border="0" class="mobile-button" cellspacing="0" cellpadding="0"><tr>
 <td align="center" bgcolor="#2b3138" style="background-color: #2b3138; margin: auto; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px; " width="100%">
                        <!--[if mso]>&nbsp;<![endif]-->
-                           <a id="joinStudyButton" href="https://web.quantimo.do/#/app/study-join?causeVariableId=1248&amp;causeVariableName=Acetyl-L-Carnitine&amp;effectVariableId=1398&amp;effectVariableName=Overall%2520Mood&amp;studyId=cause-1248-effect-1398-user-230-user-study&amp;apiUrl=utopia.quantimo.do" target="_blank" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
+                           <a id="joinStudyButton" href="https://web.quantimo.do/#/app/study-join?causeVariableId=1248&amp;causeVariableName=Acetyl-L-Carnitine&amp;effectVariableId=1398&amp;effectVariableName=Overall%2520Mood&amp;studyId=cause-1248-effect-1398-user-230-user-study" target="_blank" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
                                <span style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; line-height:1.5em; text-align:center;">
                                     Join This Study
                                </span>
@@ -44,7 +44,7 @@ tags:
                    <table border="0" class="mobile-button" cellspacing="0" cellpadding="0"><tr>
 <td align="center" bgcolor="#2b3138" style="background-color: #2b3138; margin: auto; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px; " width="100%">
                        <!--[if mso]>&nbsp;<![endif]-->
-                           <a id="go-to-interactive-study-button" href="https://web.quantimo.do/#/app/study?causeVariableId=1248&amp;effectVariableId=1398&amp;userId=230&amp;studyId=cause-1248-effect-1398-user-230-user-study&amp;apiUrl=utopia.quantimo.do" target="_blank" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
+                           <a id="go-to-interactive-study-button" href="https://web.quantimo.do/#/app/study?causeVariableId=1248&amp;effectVariableId=1398&amp;userId=230&amp;studyId=cause-1248-effect-1398-user-230-user-study" target="_blank" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
                                <span style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; line-height:1.5em; text-align:center;">
                                     Go To Interactive Study
                                </span>
@@ -68,7 +68,7 @@ tags:
                 <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/cause-1248-effect-1398-user-230-user-study/average-acetyl-l-carnitine-intake-preceding-overall-mood-chart.svg" alt="Typical Acetyl-L-Carnitine intake seen over the previous 7 days preceding the given Overall Mood value." title="Average Acetyl-L-Carnitine Intake Preceding Overall Mood">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/acetyl-l-carnitine/acetyl-l-carnitine-over-time-smoothed-chart.svg" alt="This chart shows how your Acetyl-L-Carnitine changes over time." title="Acetyl-L-Carnitine Over Time (Smoothed)">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/acetyl-l-carnitine/acetyl-l-carnitine-over-time-chart.svg" alt="This chart shows how your Acetyl-L-Carnitine changes over time." title="Acetyl-L-Carnitine Over Time">
 </div>
             <div style="text-align: center">
                 <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/acetyl-l-carnitine/daily-acetyl-l-carnitine-distribution-chart.svg" alt="Each column represents the number of days this value occurred." title="Daily Acetyl-L-Carnitine Distribution">
@@ -80,7 +80,7 @@ tags:
                 <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/acetyl-l-carnitine/average-acetyl-l-carnitine-by-month-chart.svg" alt="This chart shows the typical value recorded for Acetyl-L-Carnitine for each month of the year." title="Average Acetyl-L-Carnitine by Month">
 </div>
             <div style="text-align: center">
-                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/overall-mood-over-time-smoothed-chart.svg" alt="This chart shows how your Overall Mood changes over time." title="Overall Mood Over Time (Smoothed)">
+                <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/overall-mood-over-time-chart.svg" alt="This chart shows how your Overall Mood changes over time." title="Overall Mood Over Time">
 </div>
             <div style="text-align: center">
                 <img src="https://d2u41rntmognc9.cloudfront.net/charts/460/overall-mood/daily-overall-mood-distribution-chart.svg" alt="Each column represents the number of days this value occurred." title="Daily Overall Mood Distribution">
@@ -93,7 +93,7 @@ tags:
 </div>
 <br><div id="study-text" class="study-text" style="padding: 20px;">
 <h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Abstract</h2>
-<div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>This individual's Overall Mood is generally 21.65% higher than normal after a total of 1000 milligrams Acetyl-L-Carnitine intake over the previous 7 days. This individual's  data suggests with a high degree of confidence (p=1.0651141930646E-23, 95% CI 0.22 to 0.442) that Acetyl-L-Carnitine has a moderately positive predictive relationship (R=0.33) with Overall Mood. The highest quartile of Overall Mood measurements were observed following an average 292.02 milligrams Acetyl-L-Carnitine per day. The lowest quartile of Overall Mood measurements were observed following an average 78.308823529412 mg Acetyl-L-Carnitine per day.Overall Mood is generally 1.8% lower than normal after a total of 78.308823529412 milligrams of Acetyl-L-Carnitine intake over the previous 7 days. Overall Mood is generally 21.65% higher after a total of 292.02 milligrams of Acetyl-L-Carnitine intake over the previous 7 days. </div>
+<div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>This individual's Overall Mood is generally 22% higher than normal after a total of 1000 milligrams Acetyl-L-Carnitine intake over the previous 7 days. This individual's  data suggests with a high degree of confidence (p=1.0651141930646E-23, 95% CI 0.22 to 0.442) that Acetyl-L-Carnitine has a moderately positive predictive relationship (R=0.33) with Overall Mood. The highest quartile of Overall Mood measurements were observed following an average 292.02 milligrams Acetyl-L-Carnitine per day. The lowest quartile of Overall Mood measurements were observed following an average 78.308823529412 mg Acetyl-L-Carnitine per day.Overall Mood is generally 2% lower than normal after a total of 78.308823529412 milligrams of Acetyl-L-Carnitine intake over the previous 7 days. Overall Mood is generally 22% higher after a total of 292.02 milligrams of Acetyl-L-Carnitine intake over the previous 7 days. </div>
 <br><h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Objective</h2>
 <div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>The objective of this study is to determine the nature of the relationship (if any) between Acetyl-L-Carnitine and Overall Mood. Additionally, we attempt to determine the Acetyl-L-Carnitine values most likely to produce optimal Overall Mood values. </div>
 <br><h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Participant Instructions</h2>
@@ -108,7 +108,7 @@ tags:
                    <table border="0" class="mobile-button" cellspacing="0" cellpadding="0" style="border-collapse: collapse;"><tr>
 <td align="center" bgcolor="#2b3138" width="100%" style="font-family: Helvetica, Arial, sans-serif; font-weight: 400; text-align: center; background-color: #2b3138; margin: auto; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px;">
                        <!--[if mso]>&nbsp;<![endif]-->
-                           <a id="acetyl-l-carnitine-analysis-settings-button" href="https://web.quantimo.do/#/app/variable-settings/Acetyl-L-Carnitine?fromUrl=https%3A%2F%2Fweb.quantimo.do%2F%23%2Fapp%2Fstudy%3FcauseVariableId%3D1248%26effectVariableId%3D1398%26userId%3D230%26studyId%3Dcause-1248-effect-1398-user-230-user-study%26apiUrl%3Dutopia.quantimo.do%26recalculate%3Dtrue&amp;apiUrl=utopia.quantimo.do" target="_blank" style="outline: none; font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; text-align: center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
+                           <a id="acetyl-l-carnitine-analysis-settings-button" href="https://web.quantimo.do/#/app/variable-settings/Acetyl-L-Carnitine?fromUrl=https%3A%2F%2Fweb.quantimo.do%2F%23%2Fapp%2Fstudy%3FcauseVariableId%3D1248%26effectVariableId%3D1398%26userId%3D230%26studyId%3Dcause-1248-effect-1398-user-230-user-study%26recalculate%3Dtrue" target="_blank" style="outline: none; font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; text-align: center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
                                <span style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; line-height: 1.5em; text-align: center;">
                                     Acetyl-L-Carnitine Analysis Settings
                                </span>
@@ -125,7 +125,7 @@ tags:
                    <table border="0" class="mobile-button" cellspacing="0" cellpadding="0" style="border-collapse: collapse;"><tr>
 <td align="center" bgcolor="#2b3138" width="100%" style="font-family: Helvetica, Arial, sans-serif; font-weight: 400; text-align: center; background-color: #2b3138; margin: auto; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px;">
                        <!--[if mso]>&nbsp;<![endif]-->
-                           <a id="overall-mood-analysis-settings-button" href="https://web.quantimo.do/#/app/variable-settings/Overall+Mood?fromUrl=https%3A%2F%2Fweb.quantimo.do%2F%23%2Fapp%2Fstudy%3FcauseVariableId%3D1248%26effectVariableId%3D1398%26userId%3D230%26studyId%3Dcause-1248-effect-1398-user-230-user-study%26apiUrl%3Dutopia.quantimo.do%26recalculate%3Dtrue&amp;apiUrl=utopia.quantimo.do" target="_blank" style="outline: none; font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; text-align: center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
+                           <a id="overall-mood-analysis-settings-button" href="https://web.quantimo.do/#/app/variable-settings/Overall+Mood?fromUrl=https%3A%2F%2Fweb.quantimo.do%2F%23%2Fapp%2Fstudy%3FcauseVariableId%3D1248%26effectVariableId%3D1398%26userId%3D230%26studyId%3Dcause-1248-effect-1398-user-230-user-study%26recalculate%3Dtrue" target="_blank" style="outline: none; font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; text-align: center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
                                <span style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; line-height: 1.5em; text-align: center;">
                                     Overall Mood Analysis Settings
                                </span>
@@ -142,7 +142,7 @@ tags:
                    <table border="0" class="mobile-button" cellspacing="0" cellpadding="0" style="border-collapse: collapse;"><tr>
 <td align="center" bgcolor="#2b3138" width="100%" style="font-family: Helvetica, Arial, sans-serif; font-weight: 400; text-align: center; background-color: #2b3138; margin: auto; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px;">
                        <!--[if mso]>&nbsp;<![endif]-->
-                           <a id="predictive-analysis-settings-button" href="https://web.quantimo.do/#/app/variable-settings/Acetyl-L-Carnitine?fromUrl=https%3A%2F%2Fweb.quantimo.do%2F%23%2Fapp%2Fstudy%3FcauseVariableId%3D1248%26effectVariableId%3D1398%26userId%3D230%26studyId%3Dcause-1248-effect-1398-user-230-user-study%26apiUrl%3Dutopia.quantimo.do%26recalculate%3Dtrue&amp;apiUrl=utopia.quantimo.do" target="_blank" style="outline: none; font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; text-align: center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
+                           <a id="predictive-analysis-settings-button" href="https://web.quantimo.do/#/app/variable-settings/Acetyl-L-Carnitine?fromUrl=https%3A%2F%2Fweb.quantimo.do%2F%23%2Fapp%2Fstudy%3FcauseVariableId%3D1248%26effectVariableId%3D1398%26userId%3D230%26studyId%3Dcause-1248-effect-1398-user-230-user-study%26recalculate%3Dtrue" target="_blank" style="outline: none; font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; text-align: center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
                                <span style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; line-height: 1.5em; text-align: center;">
                                     Predictive Analysis Settings
                                </span>
@@ -153,7 +153,7 @@ tags:
 </td>
                </tr></table>
 </center>
-<br><b>Data Quantity</b> <br>135 raw Acetyl-L-Carnitine measurements with 110 changes spanning 2367 days from 2012-07-21 to 2019-01-14 were used in this analysis. 13552 raw Overall Mood measurements with 1185 changes spanning 2508 days from 2012-05-06 to 2019-03-18 were used in this analysis. </div>
+<br><b>Data Quantity</b> <br>135 raw Acetyl-L-Carnitine measurements with 110 changes spanning 2367 days from 2012-07-21 to 2019-01-14 were used in this analysis. 13563 raw Overall Mood measurements with 1185 changes spanning 2509 days from 2012-05-06 to 2019-03-19 were used in this analysis. </div>
 <br><h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Data Sources</h2>
 <div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>Acetyl-L-Carnitine data was primarily collected using <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a>.  <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a> allows you to easily track mood, symptoms, or any outcome you want to optimize in a fraction of a second.  You can also import your data from over 30 other apps and devices.  <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a> then analyzes your data to identify which hidden factors are most likely to be influencing your mood or symptoms.<br><br>Overall Mood data was primarily collected using <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a>.  <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a> allows you to easily track mood, symptoms, or any outcome you want to optimize in a fraction of a second.  You can also import your data from over 30 other apps and devices.  <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a> then analyzes your data to identify which hidden factors are most likely to be influencing your mood or symptoms.</div>
 <br><h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Limitations</h2>
@@ -228,7 +228,7 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Statistical  Significance</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">0.98847385502861</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">0.9885</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Strength of  Relationship</td>
@@ -240,7 +240,7 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1); border-bottom: none;">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left; border-bottom-left-radius: 3px;">Analysis  Performed  At</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">2019-03-18</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">2019-03-19</td>
                 </tr>
 </tbody>
 </table>
@@ -342,7 +342,7 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Analysis  Performed  At</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2019-03-18</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2019-03-19</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Duration of  Action</td>
@@ -350,7 +350,7 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Kurtosis</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">6.8224199005126</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">6.8284337504329</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Maximum  Allowed  Value</td>
@@ -358,7 +358,7 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Mean</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2.9134 out of 5</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2.9135 out of 5</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Median</td>
@@ -378,7 +378,7 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Measurements</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">13552</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">13563</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Onset  Delay</td>
@@ -386,7 +386,7 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Standard  Deviation</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">0.52787427311377</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">0.52761877110712</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Unit</td>
@@ -402,7 +402,7 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1); border-bottom: none;">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left; border-bottom-left-radius: 3px;">Variance</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">0.27865124821539</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">0.27838156762459</td>
                 </tr>
 </tbody>
 </table>

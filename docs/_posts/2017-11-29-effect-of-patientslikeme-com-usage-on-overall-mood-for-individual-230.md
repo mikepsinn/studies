@@ -93,7 +93,7 @@ tags:
 </div>
 <br><div id="study-text" class="study-text" style="padding: 20px;">
 <h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Abstract</h2>
-<div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>This individual's Overall Mood is generally 1.26% higher than normal after a total of 13 seconds Patientslikeme.com Usage over the previous 7 days. This individual's  data suggests with a high degree of confidence (p=4.0796396568667E-7, 95% CI -0.285 to -0.119) that Patientslikeme.com Usage has a weakly negative predictive relationship (R=-0.2) with Overall Mood. The highest quartile of Overall Mood measurements were observed following an average 0 seconds Patientslikeme.com Usage per day. The lowest quartile of Overall Mood measurements were observed following an average 0.0087079608343976 h Patientslikeme.com Usage per day.Overall Mood is generally 8.37% lower than normal after a total of 31 seconds of Patientslikeme.com Usage over the previous 7 days. Overall Mood is generally 1.26% higher after a total of 0 seconds of Patientslikeme.com Usage over the previous 7 days. </div>
+<div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>This individual's Overall Mood is generally 1% higher than normal after a total of 13 seconds Patientslikeme.com Usage over the previous 7 days. This individual's  data suggests with a high degree of confidence (p=4.0796396568667E-7, 95% CI -0.285 to -0.119) that Patientslikeme.com Usage has a weakly negative predictive relationship (R=-0.2) with Overall Mood. The highest quartile of Overall Mood measurements were observed following an average 0 seconds Patientslikeme.com Usage per day. The lowest quartile of Overall Mood measurements were observed following an average 0.0087079608343976 h Patientslikeme.com Usage per day.Overall Mood is generally 8% lower than normal after a total of 31 seconds of Patientslikeme.com Usage over the previous 7 days. Overall Mood is generally 1% higher after a total of 0 seconds of Patientslikeme.com Usage over the previous 7 days. </div>
 <br><h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Objective</h2>
 <div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>The objective of this study is to determine the nature of the relationship (if any) between Patientslikeme.com Usage and Overall Mood. Additionally, we attempt to determine the Patientslikeme.com Usage values most likely to produce optimal Overall Mood values. </div>
 <br><h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Participant Instructions</h2>
@@ -153,7 +153,7 @@ tags:
 </td>
                </tr></table>
 </center>
-<br><b>Data Quantity</b> <br>58 raw Patientslikeme.com Usage measurements with 87 changes spanning 810 days from 2013-12-12 to 2016-03-01 were used in this analysis. 13563 raw Overall Mood measurements with 1185 changes spanning 2509 days from 2012-05-06 to 2019-03-19 were used in this analysis. </div>
+<br><b>Data Quantity</b> <br>58 raw Patientslikeme.com Usage measurements with 87 changes spanning 810 days from 2013-12-12 to 2016-03-01 were used in this analysis. 13568 raw Overall Mood measurements with 1185 changes spanning 2510 days from 2012-05-06 to 2019-03-20 were used in this analysis. </div>
 <br><h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Data Sources</h2>
 <div class="study-section-body" style='--x-height-multiplier: 0.375; --baseline-multiplier: 0.17; font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif; letter-spacing: -.003em; font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.58;'>Patientslikeme.com Usage data was primarily collected using <a href="https://www.rescuetime.com/rp/quantimodo/plans" style="text-decoration: none; border: 0; outline: none;">RescueTime</a>.  Detailed reports show which applications and websites you spent time on. Activities are automatically grouped into pre-defined categories with built-in productivity scores covering thousands of websites and applications. You can customize categories and productivity scores to meet your needs.<br><br>Overall Mood data was primarily collected using <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a>.  <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a> allows you to easily track mood, symptoms, or any outcome you want to optimize in a fraction of a second.  You can also import your data from over 30 other apps and devices.  <a href="https://quantimo.do" style="text-decoration: none; border: 0; outline: none;">QuantiModo</a> then analyzes your data to identify which hidden factors are most likely to be influencing your mood or symptoms.</div>
 <br><h2 class="study-section-header" style='--x-height-multiplier: 0.342; --baseline-multiplier: 0.22; font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; letter-spacing: -.015em; font-weight: 700; font-style: normal; font-size: 34px; margin-left: -2.13px; line-height: 1.15;'>Limitations</h2>
@@ -228,7 +228,7 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Statistical  Significance</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">0.81806590590781</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">0.8181</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Strength of  Relationship</td>
@@ -295,7 +295,7 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Correlations</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">58</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">60</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Measurements</td>
@@ -342,7 +342,7 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Analysis  Performed  At</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2019-03-19</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2019-03-20</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Duration of  Action</td>
@@ -350,7 +350,7 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Kurtosis</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">6.8284337504329</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">6.8314408205388</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Maximum  Allowed  Value</td>
@@ -358,7 +358,7 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Mean</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2.9135 out of 5</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">2.9136 out of 5</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Median</td>
@@ -374,11 +374,11 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Correlations</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">4046</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">4048</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Number of  Measurements</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">13563</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">13568</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Onset  Delay</td>
@@ -386,7 +386,7 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Standard  Deviation</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">0.52761877110712</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left;">0.52749115901337</td>
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left;">Unit</td>
@@ -402,7 +402,7 @@ tags:
                 </tr>
 <tr style="border-top: 1px solid #C1C3D1; border-bottom-: 1px solid #C1C3D1; color: #666B85; font-size: 16px; font-weight: normal; text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1); border-bottom: none;">
 <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 1px solid #C1C3D1; text-align: left; border-bottom-left-radius: 3px;">Variance</td>
-                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">0.27838156762459</td>
+                <td class="text-left" style="background: #FFFFFF; padding: 20px; vertical-align: middle; font-weight: 300; font-size: 18px; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1); border-right: 0px; text-align: left; border-bottom-right-radius: 3px;">0.27824692283727</td>
                 </tr>
 </tbody>
 </table>

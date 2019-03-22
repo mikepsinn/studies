@@ -7,13 +7,16 @@
 #  url: /posts/
 - title: Categories
   url: /categories/
+  fontawesome: tags
 - title: Variables
   url: /tags/
+  fontawesome: vimeo-v
 #- title: Personal Studies
 #  url: /personal-studies/
 #- title: Global Studies
 #  url: /global-studies/
 - title: Search
   url: /search/
+  fontawesome: search
 # - title: External Page
 #   url: https://the-page.com/you-want-to-link-to.html

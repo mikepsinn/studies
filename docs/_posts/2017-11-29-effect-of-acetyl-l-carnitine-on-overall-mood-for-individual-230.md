@@ -11,6 +11,7 @@ categories:
     - Emotions
     - Individual Case Studies
 tags:
+    - Individual Case Study
     - Acetyl-L-Carnitine
     - Overall Mood
 ---

@@ -147,5 +147,8 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+  - title: Search
+    url: /search/
+    icon: fas fa-search
 
 copyright: '©2019 <a href="https://quantimo.do" rel="nofollow">QuantiModo</a>'

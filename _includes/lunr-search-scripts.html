@@ -96,6 +96,9 @@
                 '<a href="' + store[ref].url + '">' + store[ref].title + '</a>' +
               '</h3>' +
               '<div class="entry-excerpt">' +
+                '<p>' + store[ref].tags.join(", ") + '</p>' +
+              '</div>' +
+              '<div class="entry-excerpt">' +
                 '<p>' + store[ref].excerpt.split(" ").splice(0, 20).join(" ") + '...</p>' +
               '</div>' +
             '</article>';

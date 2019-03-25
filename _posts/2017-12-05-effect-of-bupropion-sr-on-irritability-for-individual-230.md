@@ -1,21 +1,23 @@
 ---
-title: "Higher Bupropion Sr Intake Predicts Lower Irritability"
-image: 
-    path: https://s3-us-west-1.amazonaws.com/qmimages/variable_categories_gauges_background/gauge-weakly-negative-relationship_treatments_emotions_background.png
-    #thumbnail: https://web.quantimo.do/img/gauges/246-120/gauge-weakly-negative-relationship.png
-    thumbnail: https://s3-us-west-1.amazonaws.com/qmimages/variable_categories_gauges_background/gauge-weakly-negative-relationship_treatments_emotions_background.png
-    caption: "[QuantiModo](https://quantimo.do)"
-excerpt: "This individual's Irritability is generally lowest after a daily total of 1 milligrams of Bupropion Sr intake over the previous 7 days.  "
+title: Higher Bupropion Sr Intake Predicts Lower Irritability
+date: 2017-12-05 00:00:00 Z
 categories:
-    - Treatments
-    - Emotions
-    - Individual Case Studies
+- docs
+- Treatments
+- Emotions
+- Individual Case Studies
 tags:
-    - Individual Case Study
-    - Bupropion Sr
-    - Irritability
+- Individual Case Study
+- Bupropion Sr
+- Irritability
+image:
+  path: https://s3-us-west-1.amazonaws.com/qmimages/variable_categories_gauges_background/gauge-weakly-negative-relationship_treatments_emotions_background.png
+  thumbnail: https://s3-us-west-1.amazonaws.com/qmimages/variable_categories_gauges_background/gauge-weakly-negative-relationship_treatments_emotions_background.png
+  caption: "[QuantiModo](https://quantimo.do)"
+excerpt: 'This individual''s Irritability is generally lowest after a daily total
+  of 1 milligrams of Bupropion Sr intake over the previous 7 days.  '
 ---
-        
+
 <html>
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
 <body>

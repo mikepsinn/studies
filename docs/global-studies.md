@@ -1,7 +1,7 @@
 ---
 title: Global Studies
+permalink: "/global-studies/"
 layout: collection
-permalink: /global-studies/
 collection: global-studies
 entries_layout: grid
 ---

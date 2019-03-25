@@ -1,7 +1,7 @@
 ---
 title: Personal Studies
+permalink: "/personal-studies/"
 layout: collection
-permalink: /personal-studies/
 collection: personal-studies
 entries_layout: grid
 ---

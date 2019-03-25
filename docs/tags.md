@@ -1,7 +1,8 @@
 ---
 title: Studies by Variable
+permalink: "/tags/"
 layout: tags
-permalink: /tags/
 show_excerpts: true
 entries_layout: list
 ---
+

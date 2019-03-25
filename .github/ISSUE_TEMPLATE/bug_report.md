@@ -1,6 +1,6 @@
 ---
-name: "Bug Report"
-about: "Is something not working as expected?"
+name: Bug Report
+about: Is something not working as expected?
 ---
 
 <!--

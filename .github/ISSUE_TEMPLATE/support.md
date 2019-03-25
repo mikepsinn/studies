@@ -1,6 +1,6 @@
 ---
-name: "Question"
-about: "Having trouble working with the theme?"
+name: Question
+about: Having trouble working with the theme?
 ---
 
 <!--

@@ -1,6 +1,6 @@
 ---
-name: "Enhancement / Feature Request"
-about: "What would make this theme better?"
+name: Enhancement / Feature Request
+about: What would make this theme better?
 ---
 
 <!--

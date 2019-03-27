@@ -93,15 +93,15 @@
           var tagsHtml ='';
           if(!store[ref].tags){
             console.error("No tags in:", store[ref]);
-            continue;
+          } else {
+            for (var i = 0; i < store[ref].tags.length; i++) {
+              var tag = store[ref].tags[i];
+              var url = '/tags/#' + tag.split(' ').join('-').toLowerCase();
+              tagsHtml += '<li><a class="button button--secondary button--pill button--sm" href="'+url+'">'+ tag +'</a></li>';
+            }
+            tagsHtml = '<ul class="left-col menu">'+tagsHtml+'</ul>';
           }
-          for (var i = 0; i < store[ref].tags.length; i++) {
-            var tag = store[ref].tags[i];
-            var url = '/tags/#' + tag.split(' ').join('-').toLowerCase();
-            tagsHtml += '<li><a class="button button--secondary button--pill button--sm" href="'+url+'">'+ tag +'</a></li>';
-          }
-          tagsHtml = '<ul class="left-col menu">'+tagsHtml+'</ul>';
-          var searchitem =
+          var searchItem =
             '<article class="entry">' +
               '<h3 class="entry-title">' +
                 '<a href="' + store[ref].url + '">' + store[ref].title + '</a>' +
@@ -111,7 +111,7 @@
                 '<p>' + store[ref].excerpt.split(" ").splice(0, 20).join(" ") + '...</p>' +
               '</div>' +
             '</article>';
-          resultdiv.append(searchitem);
+          resultdiv.append(searchItem);
         }
       });
     });

@@ -91,6 +91,10 @@
         for (var item in result) {
           var ref = result[item].ref;
           var tagsHtml ='';
+          if(!store[ref].tags){
+            console.error("No tags in:", store[ref]);
+            continue;
+          }
           for (var i = 0; i < store[ref].tags.length; i++) {
             var tag = store[ref].tags[i];
             var url = '/tags/#' + tag.split(' ').join('-').toLowerCase();

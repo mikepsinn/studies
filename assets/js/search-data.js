@@ -35,6 +35,7 @@ var store = [
            strip_html | strip_newlines | truncatewords: 50 | jsonify }},
         {%- endif -%}
         "categories": {{ doc.categories | jsonify }},
+        "thumbnail": {{ doc.image.thumbnail | jsonify }},
         "tags": {{ doc.tags | jsonify }},
         "url": {{ doc.url | absolute_url | jsonify }}
       } {%- unless forloop.last and l -%}, {%- endunless -%}

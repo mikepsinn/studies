@@ -90,11 +90,19 @@
         resultdiv.prepend('<p class="results__found">' + result.length + ' {{ site.data.text[site.locale].results_found | default: "Result(s) found" }}</p>');
         for (var item in result) {
           var ref = result[item].ref;
+          var tagsHtml ='';
+          for (var i = 0; i < store[ref].tags.length; i++) {
+            var tag = store[ref].tags[i];
+            var url = '/tags/#' + tag.split(' ').join('-').toLowerCase();
+            tagsHtml += '<li><a class="button button--secondary button--pill button--sm" href="'+url+'">'+ tag +'</a></li>';
+          }
+          tagsHtml = '<ul class="left-col menu">'+tagsHtml+'</ul>';
           var searchitem =
             '<article class="entry">' +
               '<h3 class="entry-title">' +
                 '<a href="' + store[ref].url + '">' + store[ref].title + '</a>' +
               '</h3>' +
+                  tagsHtml+
               '<div class="entry-excerpt">' +
                 '<p>' + store[ref].tags.join(", ") + '</p>' +
               '</div>' +

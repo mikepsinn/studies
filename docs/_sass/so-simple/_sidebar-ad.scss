@@ -21,7 +21,7 @@
 }
 
 .sidebar-horizontal-share {
-  display: inline-block;
+  display: block;
 
   @include breakpoint($large) {
     display: none;;

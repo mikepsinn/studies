@@ -30,7 +30,8 @@
 }
 
 .author-links {
-  display: none;
+  //display: none; Let's show on mobile as well
+  display: block;
   margin: 0 0 1.5em;
   padding: 0;
   list-style: none;

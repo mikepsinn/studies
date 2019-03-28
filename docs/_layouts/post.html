@@ -17,9 +17,12 @@ layout: default
 
       <div class="page-sidebar">
         {% include page-author.html %}
-        {% include page-categories.html %}
-        <br>
-        {% include page-tags.html %}
+        <div>
+            {% include page-categories.html %}
+        </div>
+        <div style="padding-top: 10px;">
+            {% include page-tags.html %}
+        </div>
         <div class="sidebar-vertical-share">
           {% include social-share-vertical.html %}
         </div>
